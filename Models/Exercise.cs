@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProjectHercules.Models
 {
+    public enum ExerciseUnit { Kg, Min }
+
     public class Exercise
     {
         public int ExerciseId { get; set; }
@@ -13,9 +15,11 @@ namespace ProjectHercules.Models
 
         public int ExerciseValue { get; set; }
 
+        public ExerciseUnit ExerciseUnit { get; set; }
+
         public string ExerciseValueAsString
         {
-            get { return $"{ExerciseValue.ToString()} kg"; }    //FIXME: Change the unit to a more dynamic 
+            get { return $"{ExerciseValue.ToString()} {ExerciseUnit.ToString()}"; }    //FIXME: Change the unit to a more dynamic 
         }
     }
 }

@@ -8,12 +8,13 @@ public partial class OverviewPage : ContentPage
     public OverviewPage()
 	{
 		InitializeComponent();
-        LoadContent();
+        
     }
 
     protected override void OnAppearing()
     {
         base.OnAppearing();
+        LoadContent();
     }
 
     private void btnAddCalories_Clicked(object sender, EventArgs e)
@@ -24,7 +25,7 @@ public partial class OverviewPage : ContentPage
     public void LoadContent()
     {
         ObservableCollection<Nutrient> foodIntake = new ObservableCollection<Nutrient>(FoodIntake.GetNutrients());
-        ObservableCollection<Exercise> exercises = new ObservableCollection<Exercise>(ExerciseDatabase.GetExercises());
+        ObservableCollection<Exercise> exercises = new ObservableCollection<Exercise>(ExerciseDatabase.GetAllExercises());
 
         listNutrients.ItemsSource = foodIntake;
         listExercises.ItemsSource = exercises;

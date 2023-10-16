@@ -5,7 +5,7 @@
              Title="Overview">
     <VerticalStackLayout
         Padding="5"
-        Spacing="40"
+        Spacing="30"
         BackgroundColor="White">
         <StackLayout>
             <Label Text="Food Intake" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>

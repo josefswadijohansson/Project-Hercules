@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectHercules.Pages.OverviewPage"
+             Title="Overview">
+    <VerticalStackLayout
+        Padding="5"
+        Spacing="40"
+        BackgroundColor="White">
+        <StackLayout>
+            <Label Text="Food Intake" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+            <ListView
+                x:Name="listNutrients"
+                BackgroundColor="GhostWhite"
+                SeparatorColor="Silver"
+                RowHeight="50"
+                ItemTapped="listNutrients_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding NutrientName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                </Label>
+                                <Label Text="{Binding NutrientValue}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                </Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+        <StackLayout>
+            <Label Text="Exercise" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+            <ListView
+            x:Name="listExercises"
+            BackgroundColor="GhostWhite"
+            SeparatorColor="Silver"
+            RowHeight="50"
+            ItemTapped="listExercises_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                </Label>
+                                <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                </Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josef\\source\\repos\\ProjectHercules\\ProjectHercules.csproj": {}
+    "C:\\Users\\Josef\\source\\repos\\Project-Hercules\\ProjectHercules.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josef\\source\\repos\\ProjectHercules\\ProjectHercules.csproj": {
+    "C:\\Users\\Josef\\source\\repos\\Project-Hercules\\ProjectHercules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josef\\source\\repos\\ProjectHercules\\ProjectHercules.csproj",
+        "projectUniqueName": "C:\\Users\\Josef\\source\\repos\\Project-Hercules\\ProjectHercules.csproj",
         "projectName": "ProjectHercules",
-        "projectPath": "C:\\Users\\Josef\\source\\repos\\ProjectHercules\\ProjectHercules.csproj",
+        "projectPath": "C:\\Users\\Josef\\source\\repos\\Project-Hercules\\ProjectHercules.csproj",
         "packagesPath": "C:\\Users\\Josef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josef\\source\\repos\\ProjectHercules\\obj\\",
+        "outputPath": "C:\\Users\\Josef\\source\\repos\\Project-Hercules\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -62,6 +62,10 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -198,6 +202,10 @@
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -267,6 +275,10 @@
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -337,6 +349,10 @@
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",

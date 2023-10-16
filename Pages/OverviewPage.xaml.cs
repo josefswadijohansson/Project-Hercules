@@ -8,9 +8,12 @@ public partial class OverviewPage : ContentPage
     public OverviewPage()
 	{
 		InitializeComponent();
-
         LoadContent();
+    }
 
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
     }
 
     private void btnAddCalories_Clicked(object sender, EventArgs e)

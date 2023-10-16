@@ -7,14 +7,28 @@
     xmlns:pages="clr-namespace:ProjectHercules.Pages">
 
     <TabBar>
-        <Tab>
-            
-        </Tab>
-        
         <ShellContent
-            Title="Home"
+            Title="Overview"
+            Icon="dashboard.svg"
             ContentTemplate="{DataTemplate pages:OverviewPage}"
             Route="OverviewPage" />
+        <ShellContent
+            Title="Food Intake"
+            Icon="bowl.svg"
+            ContentTemplate="{DataTemplate pages:FoodIntakePage}"
+            Route="FoodIntakePage" />
+
+        <ShellContent
+            Title="Fitness"
+            Icon="barbell.svg"
+            ContentTemplate="{DataTemplate pages:FitnessPage}"
+            Route="FitnessPage" />
+
+        <ShellContent
+            Title="Settings"
+            Icon="settings.svg"
+            ContentTemplate="{DataTemplate pages:SettingsPage}"
+            Route="SettingsPage" />
     </TabBar>
     
     

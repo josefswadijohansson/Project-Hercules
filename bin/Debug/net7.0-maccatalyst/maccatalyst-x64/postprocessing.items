@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="ProjectHercules.app/Contents/MacOS/ProjectHercules">
+      <BCSymbolMapName>ProjectHercules.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>ProjectHercules.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>ProjectHercules.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/josefswadijohansson/Projects/MAUI/Project-Hercules</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Shell
     x:Class="ProjectHercules.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
@@ -9,24 +9,24 @@
     <TabBar>
         <ShellContent
             Title="Overview"
-            Icon="dashboard.svg"
+            Icon="dashboard.png"
             ContentTemplate="{DataTemplate pages:OverviewPage}"
             Route="OverviewPage" />
         <ShellContent
             Title="Food Intake"
-            Icon="bowl.svg"
+            Icon="bowl.png"
             ContentTemplate="{DataTemplate pages:FoodIntakePage}"
             Route="FoodIntakePage" />
 
         <ShellContent
             Title="Fitness"
-            Icon="barbell.svg"
+            Icon="barbell.png"
             ContentTemplate="{DataTemplate pages:FitnessPage}"
             Route="FitnessPage" />
 
         <ShellContent
             Title="Settings"
-            Icon="settings.svg"
+            Icon="settings.png"
             ContentTemplate="{DataTemplate pages:SettingsPage}"
             Route="SettingsPage" />
     </TabBar>

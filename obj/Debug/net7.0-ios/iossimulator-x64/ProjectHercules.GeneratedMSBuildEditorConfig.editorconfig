@@ -8,58 +8,58 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectHercules
-build_property.ProjectDir = C:\Users\Josef\source\repos\Project-Hercules\
+build_property.ProjectDir = /Users/josefswadijohansson/Projects/MAUI/Project-Hercules/
 
-[C:/Users/Josef/source/repos/Project-Hercules/App.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/AppShell.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/MainPage.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/Pages/FitnessPage.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/Pages/FitnessPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.FitnessPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\FitnessPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\FitnessPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/FitnessPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/FitnessPage.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/Pages/FoodIntakePage.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/Pages/FoodIntakePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.FoodIntakePage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\FoodIntakePage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\FoodIntakePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/FoodIntakePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/FoodIntakePage.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/Pages/OverviewPage.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/Pages/OverviewPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.OverviewPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\OverviewPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\OverviewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/OverviewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/OverviewPage.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/Pages/SettingsPage.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/Pages/SettingsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.SettingsPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\SettingsPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/SettingsPage.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/Resources/Styles/Colors.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Resources.Styles.Colors.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[C:/Users/Josef/source/repos/Project-Hercules/Resources/Styles/Styles.xaml]
+[/Users/josefswadijohansson/Projects/MAUI/Project-Hercules/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Resources.Styles.Styles.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

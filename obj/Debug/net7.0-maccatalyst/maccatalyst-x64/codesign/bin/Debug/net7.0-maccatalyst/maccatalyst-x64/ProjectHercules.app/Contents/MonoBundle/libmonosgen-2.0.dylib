@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/josefswadijohansson/Projects/MAUI/Project-Hercules/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/ProjectHercules.app/Contents/MonoBundle/libmonosgen-2.0.dylib

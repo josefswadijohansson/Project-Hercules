@@ -8,7 +8,8 @@ public partial class OverviewPage : ContentPage
     public OverviewPage()
 	{
 		InitializeComponent();
-        
+
+        LoadContent();
     }
 
     protected override void OnAppearing()
@@ -24,6 +25,8 @@ public partial class OverviewPage : ContentPage
 
     public void LoadContent()
     {
+        ExerciseDatabase.LoadDataFromPreference();
+
         ObservableCollection<Nutrient> foodIntake = new ObservableCollection<Nutrient>(FoodIntake.GetNutrients());
         ObservableCollection<Exercise> exercises = new ObservableCollection<Exercise>(ExerciseDatabase.GetAllExercises());
 

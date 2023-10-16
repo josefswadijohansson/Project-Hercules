@@ -51,4 +51,15 @@ public partial class FitnessPage : ContentPage
 
         LoadData();
     }
+
+    private async void editMenuItem_Clicked(object sender, EventArgs e)
+    {
+        var menuItem = sender as MenuItem;
+        var exercise = menuItem.CommandParameter as Exercise;
+
+        if(exercise != null)
+        {
+            await Shell.Current.GoToAsync($"{nameof(EditExercisePage)}?Id={exercise.ExerciseId}");
+        }
+    }
 }

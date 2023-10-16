@@ -8,20 +8,33 @@ namespace ProjectHercules.Models
 {
     public static class ExerciseDatabase
     {
-        public static List<Exercise> _exercises = new List<Exercise>()
+        public static List<Exercise> Exercises = new List<Exercise>()
         {
-            new Exercise{ ExerciseId = 0, ExerciseName = "Deadlift", ExerciseValue = 10 },
+            /*new Exercise{ ExerciseId = 0, ExerciseName = "Deadlift", ExerciseValue = 10 },
             new Exercise{ ExerciseId = 1, ExerciseName = "Squat", ExerciseValue = 10 },
-            new Exercise{ ExerciseId = 2, ExerciseName = "Benchpress", ExerciseValue = 10 }
+            new Exercise{ ExerciseId = 2, ExerciseName = "Benchpress", ExerciseValue = 10 }*/
         };
 
-        public static List<Exercise> GetAllExercises() => _exercises;
+        public static List<Exercise> GetAllExercises() => Exercises;
+
+        public static Exercise GetExerciseById(int exerciseId)
+        {
+            var exercise = Exercises.FirstOrDefault(x => x.ExerciseId == exerciseId);
+
+            if (exercise != null)
+            {
+                
+                return exercise;
+            }
+
+            return null;
+        }
 
         public static List<Exercise> GetWeightExercises()
         {
             List<Exercise> weightExercises = new List<Exercise>();
 
-            foreach(Exercise e in _exercises)
+            foreach(Exercise e in Exercises)
             {
                 if(e.ExerciseUnit == ExerciseUnit.Kg)
                 {
@@ -36,7 +49,7 @@ namespace ProjectHercules.Models
         {
             List<Exercise> cardioExercises = new List<Exercise>();
 
-            foreach (Exercise e in _exercises)
+            foreach (Exercise e in Exercises)
             {
                 if (e.ExerciseUnit == ExerciseUnit.Min)
                 {
@@ -49,25 +62,73 @@ namespace ProjectHercules.Models
 
         public static bool AddExercise(Exercise e)
         {
-            e.ExerciseId = _exercises.Count - 1;
-            _exercises.Add(e);
+            e.ExerciseId = Exercises.Count - 1;
 
-            //Todo: Add a check so the user doesnt add duplications of exercise name
+            var exercise = Exercises.FirstOrDefault(x => x.ExerciseName == e.ExerciseName);
+
+            if (exercise == null)
+            {
+                Exercises.Add(e);
+            }
+            else
+            {
+                return false;   
+            }
 
             return true;
         }
 
+
         public static bool DeleteExercise(int exerciseId)
         {
-            var exercise = _exercises.FirstOrDefault(x => x.ExerciseId == exerciseId);
+            var exercise = Exercises.FirstOrDefault(x => x.ExerciseId == exerciseId);
 
             if (exercise != null)
             {
-                _exercises.Remove(exercise);
+                Exercises.Remove(exercise);
                 return true;
             }
 
             return false;
+        }
+
+        public static void LoadDataFromPreference()
+        {
+            string dataToLoad = Preferences.Get("exercises_savedValue", "defaultValue");
+
+            if (!dataToLoad.Equals("defaultValue"))
+            {
+                string[] exercisesArray = dataToLoad.Split(';');
+
+                if (exercisesArray.Length > 0)
+                {
+                    foreach(string exerciseData in exercisesArray)
+                    {
+                        if(!string.IsNullOrWhiteSpace(exerciseData))
+                        {
+                            Exercise e = Exercise.CreateFromData(exerciseData);
+                            if(ExerciseDatabase.Exercises.Count > 1)
+                            {
+                                e.ExerciseId = ExerciseDatabase.Exercises.Count - 1;
+                            }
+                            ExerciseDatabase.AddExercise(e);
+                        }
+                    }
+                }
+            }
+
+        }
+
+        public static void SaveDataToPreference()
+        {
+            string dataToSave = string.Empty;
+
+            foreach(Exercise e in Exercises)
+            {
+                dataToSave += $"{e.ToString()};";
+            }
+
+            Preferences.Set("exercises_savedValue", dataToSave);
         }
     }
 }

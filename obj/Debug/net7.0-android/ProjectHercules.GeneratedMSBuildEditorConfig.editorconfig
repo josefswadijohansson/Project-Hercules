@@ -38,6 +38,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.AddE
 build_metadata.AdditionalFiles.TargetPath = Pages\AddExercisePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AddExercisePage.xaml
 
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/EditExercisePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.EditExercisePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EditExercisePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EditExercisePage.xaml
+
 [C:/Users/Josef/source/repos/Project-Hercules/Pages/FitnessPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.FitnessPage.xaml

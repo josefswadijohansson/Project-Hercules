@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace ProjectHercules.Models
 {
-    
-
     public static class FoodIntake
     {
         public static List<Nutrient> _nutrients = new List<Nutrient>()

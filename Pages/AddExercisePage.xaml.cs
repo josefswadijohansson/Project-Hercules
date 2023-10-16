@@ -3,13 +3,13 @@ using ProjectHercules.Models;
 
 public partial class AddExercisePage : ContentPage
 {
-    List<string> _units = new List<string>() { ExerciseUnit.Kg.ToString(), ExerciseUnit.Min.ToString() };
+    
 
     public AddExercisePage()
 	{
 		InitializeComponent();
         
-        amountUnitPicker.ItemsSource = _units;
+        amountUnitPicker.ItemsSource = Exercise._units;
 	}
 
     private void saveToolbarItem_Clicked(object sender, EventArgs e)
@@ -23,11 +23,13 @@ public partial class AddExercisePage : ContentPage
         {
             string exerciseName = entryExerciseName.Text;
             string exerciseAmount = entryExerciseAmount.Text;
-            ExerciseUnit exerciseUnit = (ExerciseUnit)Enum.Parse(typeof(ExerciseUnit), _units[amountUnitPicker.SelectedIndex]);
+            ExerciseUnit exerciseUnit = (ExerciseUnit)Enum.Parse(typeof(ExerciseUnit), Exercise._units[amountUnitPicker.SelectedIndex]);
 
             Exercise newExercise = new Exercise() { ExerciseName = exerciseName, ExerciseValue = int.Parse(exerciseAmount), ExerciseUnit = exerciseUnit };
 
             ExerciseDatabase.AddExercise(newExercise);
+
+            ExerciseDatabase.SaveDataToPreference();
 
             Shell.Current.GoToAsync("..");
         }

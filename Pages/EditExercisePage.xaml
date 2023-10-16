@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectHercules.Pages.EditExercisePage"
+             Title="Edit Exercise">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="saveToolbarItem" Text="Save" Clicked="saveToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <VerticalStackLayout Padding="10">
+        <HorizontalStackLayout>
+            <Label Text="Exercise Name" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+            <Entry IsEnabled="True" x:Name="entryExerciseName" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <Label Text="Exercise Amount" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+            <Entry x:Name="entryExerciseAmount" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+            <Picker IsEnabled="false" x:Name="amountUnitPicker" Title="Unit"></Picker>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

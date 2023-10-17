@@ -10,12 +10,12 @@
     <VerticalStackLayout Padding="10">
         <HorizontalStackLayout>
             <Label Text="Exercise Name" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
-            <Entry x:Name="entryExerciseName" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+            <Entry x:Name="entryExerciseName"  Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
         </HorizontalStackLayout>
 
         <HorizontalStackLayout>
             <Label Text="Exercise Amount" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
-            <Entry x:Name="entryExerciseAmount" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+            <Entry x:Name="entryExerciseAmount" Keyboard="Numeric" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
             <Picker x:Name="amountUnitPicker" Title="Unit"></Picker>
         </HorizontalStackLayout>
     </VerticalStackLayout>

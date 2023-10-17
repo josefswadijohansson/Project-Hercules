@@ -25,24 +25,10 @@ public partial class OverviewPage : ContentPage
 
     public void LoadContent()
     {
-        ExerciseDatabase.LoadDataFromPreference();
+        ObservableCollection<Nutrient> nutrientIntake = new ObservableCollection<Nutrient>(FoodIntake.GetNutrients());
+        ObservableCollection<Exercise> exercises = new ObservableCollection<Exercise>(ExerciseRepository.GetAllExercises());
 
-        ObservableCollection<Nutrient> foodIntake = new ObservableCollection<Nutrient>(FoodIntake.GetNutrients());
-        ObservableCollection<Exercise> exercises = new ObservableCollection<Exercise>(ExerciseDatabase.GetAllExercises());
-
-        listNutrients.ItemsSource = foodIntake;
+        listNutrients.ItemsSource = nutrientIntake;
         listExercises.ItemsSource = exercises;
-    }
-
-    private void listNutrients_ItemTapped(object sender, ItemTappedEventArgs e)
-    {
-        Nutrient n = listNutrients.SelectedItem as Nutrient;
-        n.NutrientValue++;
-        LoadContent();
-    }
-
-    private void listExercises_ItemTapped(object sender, ItemTappedEventArgs e)
-    {
-
     }
 }

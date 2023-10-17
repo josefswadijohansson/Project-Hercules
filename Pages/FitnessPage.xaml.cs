@@ -14,14 +14,13 @@ public partial class FitnessPage : ContentPage
     protected override void OnAppearing()
     {
         base.OnAppearing();
-
         LoadData();
     }
 
     public void LoadData()
     {
-        ObservableCollection<Exercise> weightExercises = new ObservableCollection<Exercise>(ExerciseDatabase.GetWeightExercises());
-        ObservableCollection<Exercise> cardioExercises = new ObservableCollection<Exercise>(ExerciseDatabase.GetCardioExercises());
+        ObservableCollection<Exercise> weightExercises = new ObservableCollection<Exercise>(ExerciseRepository.GetWeightExercises());
+        ObservableCollection<Exercise> cardioExercises = new ObservableCollection<Exercise>(ExerciseRepository.GetCardioExercises());
 
         listWeights.ItemsSource = weightExercises;
         listCardio.ItemsSource = cardioExercises;
@@ -37,9 +36,9 @@ public partial class FitnessPage : ContentPage
 
     }
 
-    private void addToolbarItem_Clicked(object sender, EventArgs e)
+    private async void addToolbarItem_Clicked(object sender, EventArgs e)
     {
-        Shell.Current.GoToAsync(nameof(AddExercisePage));   
+        await Shell.Current.Navigation.PushAsync(new AddExercisePage());   
     }
 
     private void deleteMenuItem_Clicked(object sender, EventArgs e)
@@ -47,7 +46,7 @@ public partial class FitnessPage : ContentPage
         var menuItem = sender as MenuItem;
         var exercise = menuItem.CommandParameter as Exercise;
 
-        ExerciseDatabase.DeleteExercise(exercise.ExerciseId);
+        ExerciseRepository.DeleteExercise(exercise.ExerciseId);
 
         LoadData();
     }

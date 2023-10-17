@@ -13,8 +13,7 @@
                 x:Name="listNutrients"
                 BackgroundColor="GhostWhite"
                 SeparatorColor="Silver"
-                RowHeight="50"
-                ItemTapped="listNutrients_ItemTapped">
+                RowHeight="50">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -36,8 +35,7 @@
             x:Name="listExercises"
             BackgroundColor="GhostWhite"
             SeparatorColor="Silver"
-            RowHeight="50"
-            ItemTapped="listExercises_ItemTapped">
+            RowHeight="50">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

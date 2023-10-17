@@ -16,7 +16,7 @@ public partial class EditExercisePage : ContentPage
     {
         set
         {
-            _exercise = ExerciseDatabase.GetExerciseById(int.Parse(value));
+            _exercise = ExerciseRepository.GetExerciseById(int.Parse(value));
             if (_exercise != null)
             {
                 entryExerciseName.Text = _exercise.ExerciseName;
@@ -43,7 +43,7 @@ public partial class EditExercisePage : ContentPage
             _exercise.ExerciseValue = int.Parse(exerciseAmount);
             _exercise.ExerciseUnit = exerciseUnit;
 
-            ExerciseDatabase.SaveDataToPreference();
+            ExerciseRepository.SaveDataToPreference();
 
             Shell.Current.GoToAsync("..");
         }

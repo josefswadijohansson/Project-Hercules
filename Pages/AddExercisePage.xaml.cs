@@ -12,7 +12,7 @@ public partial class AddExercisePage : ContentPage
         amountUnitPicker.ItemsSource = Exercise._units;
 	}
 
-    private void saveToolbarItem_Clicked(object sender, EventArgs e)
+    private async void saveToolbarItem_Clicked(object sender, EventArgs e)
     {
         //Todo : Add so it add the exercise down
         //Todo : Add a check so it doesnt save an empty Exercise
@@ -27,26 +27,26 @@ public partial class AddExercisePage : ContentPage
 
             Exercise newExercise = new Exercise() { ExerciseName = exerciseName, ExerciseValue = int.Parse(exerciseAmount), ExerciseUnit = exerciseUnit };
 
-            ExerciseDatabase.AddExercise(newExercise);
+            ExerciseRepository.AddExercise(newExercise);
 
-            ExerciseDatabase.SaveDataToPreference();
+            ExerciseRepository.SaveDataToPreference();
 
-            Shell.Current.GoToAsync("..");
+            await Shell.Current.Navigation.PopAsync();
         }
 
         if(amountUnitPicker.SelectedIndex < 0)
         {
-            DisplayAlert("Error", "Missing exercise unit", "Ok");
+            await DisplayAlert("Error", "Missing exercise unit", "Ok");
         }
 
         if(string.IsNullOrWhiteSpace(entryExerciseName.Text) == true)
         {
-            DisplayAlert("Error", "Missing exercise name", "Ok");
+            await DisplayAlert("Error", "Missing exercise name", "Ok");
         }
 
         if(string.IsNullOrWhiteSpace(entryExerciseAmount.Text) == true)
         {
-            DisplayAlert("Error", "Missing exercise amount", "Ok");
+            await DisplayAlert("Error", "Missing exercise amount", "Ok");
         }
     }
 }

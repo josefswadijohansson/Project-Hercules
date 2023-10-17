@@ -10,25 +10,21 @@
         <ShellContent
             Title="Overview"
             Icon="dashboard.png"
-            ContentTemplate="{DataTemplate pages:OverviewPage}"
-            Route="OverviewPage" />
+            ContentTemplate="{DataTemplate pages:OverviewPage}" />
         <ShellContent
             Title="Food Intake"
             Icon="bowl.png"
-            ContentTemplate="{DataTemplate pages:FoodIntakePage}"
-            Route="FoodIntakePage" />
+            ContentTemplate="{DataTemplate pages:FoodIntakePage}" />
 
         <ShellContent
             Title="Fitness"
             Icon="barbell.png"
-            ContentTemplate="{DataTemplate pages:FitnessPage}"
-            Route="FitnessPage" />
+            ContentTemplate="{DataTemplate pages:FitnessPage}" />
 
         <ShellContent
             Title="Settings"
             Icon="settings.png"
-            ContentTemplate="{DataTemplate pages:SettingsPage}"
-            Route="SettingsPage" />
+            ContentTemplate="{DataTemplate pages:SettingsPage}" />
     </TabBar>
     
     

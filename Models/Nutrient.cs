@@ -13,6 +13,6 @@ namespace ProjectHercules.Models
         public int NutrientId { get; set; }
         public string NutrientName { get; set; }
 
-        public int NutrientValue { get; set; }
+        public float NutrientValue { get; set; }
     }
 }

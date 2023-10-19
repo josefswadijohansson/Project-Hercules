@@ -14,5 +14,16 @@ namespace ProjectHercules.Models
         public string NutrientName { get; set; }
 
         public float NutrientValue { get; set; }
+        public string NutrientValueAsString 
+        { 
+            get 
+            { 
+                if(NutrientName == "Calories")
+                {
+                    return $"{NutrientValue.ToString("0.00")} Kcal";
+                }
+                return $"{NutrientValue.ToString("0.00")} g"; 
+            }
+        }
     }
 }

@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using ProjectHercules.Pages;
 
 namespace ProjectHercules.Models
 {
@@ -82,7 +83,7 @@ namespace ProjectHercules.Models
                         float protein = float.Parse(mealComponentsValue[5], CultureInfo.InvariantCulture);
                         float salt = float.Parse(mealComponentsValue[8], CultureInfo.InvariantCulture);
 
-                        MealComponent newMealComponent = new MealComponent(name, calories, fat, carbs, protein, salt);
+                        MealComponent newMealComponent = new MealComponent(name, -1, calories, fat, carbs, protein, salt);
 
                         _mealComponentsDatabase.Add(newMealComponent);
                     }
@@ -112,7 +113,7 @@ namespace ProjectHercules.Models
                 return GetAllMealComponents().ToArray();
             }
 
-            var mealComponents = _mealComponentsDatabase.Where(x => !string.IsNullOrWhiteSpace(x.Name) && x.Name.StartsWith(filterText, StringComparison.OrdinalIgnoreCase))?.ToList();
+            var mealComponents = _mealComponentsDatabase.Where(x => !string.IsNullOrWhiteSpace(x.Name) && x.Name.Contains(filterText, StringComparison.OrdinalIgnoreCase))?.ToList();
 
             if(mealComponents != null)
             {

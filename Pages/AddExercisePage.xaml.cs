@@ -14,9 +14,6 @@ public partial class AddExercisePage : ContentPage
 
     private async void saveToolbarItem_Clicked(object sender, EventArgs e)
     {
-        //Todo : Add so it add the exercise down
-        //Todo : Add a check so it doesnt save an empty Exercise
-        
         if(string.IsNullOrWhiteSpace(entryExerciseName.Text) == false &&
             string.IsNullOrWhiteSpace(entryExerciseAmount.Text) == false &&
             amountUnitPicker.SelectedIndex >= 0)

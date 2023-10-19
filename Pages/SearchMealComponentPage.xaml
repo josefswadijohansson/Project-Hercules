@@ -4,14 +4,15 @@
              x:Class="ProjectHercules.Pages.SearchMealComponentPage"
              Title="Search Meal Component">
 
-    <VerticalStackLayout Padding="10">
-        <SearchBar
+    <ScrollView>
+        <VerticalStackLayout Padding="10">
+            <SearchBar
             x:Name="searchBar"
             Placeholder="Search Contact"
             TextChanged="searchBar_TextChanged">
-        </SearchBar>
+            </SearchBar>
 
-        <ListView 
+            <ListView 
             x:Name="listMealComponents"
             BackgroundColor="Transparent"
             SeparatorColor="Silver"
@@ -19,14 +20,15 @@
             ItemTapped="listMealComponents_ItemTapped"
             ItemSelected="listMealComponents_ItemSelected"
             >
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell
                         Text="{Binding Name}"
                         Detail="{Binding NutritionalFact}">
-                    </TextCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </VerticalStackLayout>
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

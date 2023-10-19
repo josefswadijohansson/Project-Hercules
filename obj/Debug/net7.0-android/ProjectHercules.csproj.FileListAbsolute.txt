@@ -2038,6 +2038,14 @@ C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\stamp\_Con
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\typemaps.x86.ll
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\environment.x86.ll
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\compressed_assemblies.x86.ll
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\typemaps.x86.o
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\environment.x86.o
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\compressed_assemblies.x86.o
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\jni_remap.x86.o
+C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\app_shared_libraries\x86\libxamarin-app.so
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\assets\mscorlib.dll
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
@@ -2051,11 +2059,3 @@ C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\as
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\assets\System.Xml.dll
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\typemaps.x86.ll
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\environment.x86.ll
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\compressed_assemblies.x86.ll
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\typemaps.x86.o
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\environment.x86.o
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\compressed_assemblies.x86.o
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\android\jni_remap.x86.o
-C:\Users\Josef\source\repos\Project-Hercules\obj\Debug\net7.0-android\app_shared_libraries\x86\libxamarin-app.so

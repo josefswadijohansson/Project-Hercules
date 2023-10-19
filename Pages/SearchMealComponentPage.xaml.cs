@@ -5,11 +5,14 @@ namespace ProjectHercules.Pages;
 
 public partial class SearchMealComponentPage : ContentPage
 {
-	public SearchMealComponentPage()
+	public SearchMealComponentPage(string parentPage)
 	{
 		InitializeComponent();
+        ParentPage = parentPage;
         //LoadData();
     }
+
+    public string ParentPage = string.Empty;
 
     protected override void OnAppearing()
     {
@@ -39,7 +42,29 @@ public partial class SearchMealComponentPage : ContentPage
     private async void listMealComponents_ItemTapped(object sender, ItemTappedEventArgs e)
     {
         MealComponent m = listMealComponents.SelectedItem as MealComponent;
-        AddMealPage.Meal.AddComponent(m);
+
+        if(ParentPage == nameof(AddMealPage))
+        {
+            if(AddMealPage.CurrentAddedMeal != null)
+            {
+                AddMealPage.CurrentAddedMeal.AddComponent(m);
+            }
+            else if(AddMealPage.CurrentAddedMeal == null)
+            {
+                await DisplayAlert("Error", "Why is current add meal null?", "OK");
+            }
+        }
+        else
+        {
+            if(EditMealPage.CurrentEditedMeal != null)
+            {
+                EditMealPage.CurrentEditedMeal.AddComponent(m);
+            }
+            else if(EditMealPage.CurrentEditedMeal == null)
+            {
+                await DisplayAlert("Error", "Why is current edit meal null?", "OK");
+            }
+        }
 
         listMealComponents.SelectedItem = null;
 

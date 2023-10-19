@@ -8,7 +8,7 @@ namespace ProjectHercules.Pages;
 public partial class AddMealPage : ContentPage
 {
 
-    public static Meal Meal { get; set; }
+    public static Meal CurrentAddedMeal { get; set; }
 
     private static string lastChangedEntry = string.Empty;
     private Dictionary<string, string> mealEntrys = new Dictionary<string, string>();
@@ -16,7 +16,7 @@ public partial class AddMealPage : ContentPage
 	public AddMealPage()
 	{
 		InitializeComponent();
-        Reset();
+        CurrentAddedMeal = new Meal();
     }
 
     protected override void OnAppearing()
@@ -32,34 +32,44 @@ public partial class AddMealPage : ContentPage
 
     private void MenuItem_Clicked(object sender, EventArgs e)
     {
-        //Todo: Implement a delete function of the meal component.
-        DisplayAlert("Warning", "Not Yet Implemented", "Ok");
+        var menuItem = sender as MenuItem;
+        var mealComponent = menuItem.CommandParameter as MealComponent;
+
+        CurrentAddedMeal.RemoveComponent(mealComponent);
+        LoadData();
     }
 
     private async void searchToolbarItem_Clicked(object sender, EventArgs e)
     {
         //Shell.Current.Navigation.PushAsync(new SearchMealComponentPage());
-        await Shell.Current.Navigation.PushAsync(new SearchMealComponentPage());
+        await Shell.Current.Navigation.PushAsync(new SearchMealComponentPage(nameof(AddMealPage)));
     }
 
     public static void Reset()
     {
         lastChangedEntry = string.Empty;
-        if (Meal == null)
-        {
-            Meal = new Meal();
-        }
+        CurrentAddedMeal = null;
     }
 
     public void LoadData()
     {
-        if(Meal != null)
+        if(CurrentAddedMeal != null)
         {
-            if(Meal.MealComponents.Count > 0)
+            if(CurrentAddedMeal.MealComponents.Count > 0)
             {
-                var mealComponents = new ObservableCollection<MealComponent>(Meal.MealComponents);
+                var mealComponents = new ObservableCollection<MealComponent>(CurrentAddedMeal.MealComponents);
                 listMealComponents.ItemsSource = mealComponents;
             }
+            else
+            {
+                var mealComponents = new ObservableCollection<MealComponent>();
+                listMealComponents.ItemsSource = mealComponents;
+            }
+        }
+        else
+        {
+            var mealComponents = new ObservableCollection<MealComponent>();
+            listMealComponents.ItemsSource = mealComponents;
         }
     }
 
@@ -69,7 +79,7 @@ public partial class AddMealPage : ContentPage
 
         if(!string.IsNullOrWhiteSpace(lastChangedEntry))
         {
-            foreach (MealComponent mC in Meal.MealComponents)
+            foreach (MealComponent mC in CurrentAddedMeal.MealComponents)
             {
                 if (mC.Name == lastChangedEntry)
                 {

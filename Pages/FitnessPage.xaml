@@ -6,85 +6,87 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem x:Name="addToolbarItem" Text="+" Clicked="addToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
-    <VerticalStackLayout
+    <ScrollView>
+        <VerticalStackLayout
         Padding="5"
         Spacing="30"
         BackgroundColor="White">
-        <StackLayout>
-            <Label Text="Weights" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
-            <ListView
+            <StackLayout>
+                <Label Text="Weights" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <ListView
                 x:Name="listWeights"
                 BackgroundColor="GhostWhite"
                 SeparatorColor="Silver"
                 RowHeight="50">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <StackLayout Orientation="Horizontal">
-                                <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
-                                </Label>
-                                <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
-                                </Label>
-                            </StackLayout>
-                            <ViewCell.ContextActions>
-                                <MenuItem
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                    </Label>
+                                    <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                    </Label>
+                                </StackLayout>
+                                <ViewCell.ContextActions>
+                                    <MenuItem
                                     x:Name="editMenuItem"
                                     Text="Edit"
                                     Clicked="editMenuItem_Clicked"
                                     IsDestructive="False"
                                     CommandParameter="{Binding .}">
-                                </MenuItem>
-                                <MenuItem
+                                    </MenuItem>
+                                    <MenuItem
                                     x:Name="deleteMenuItem"
                                     Text="Delete"
                                     IsDestructive="True"
                                     Clicked="deleteMenuItem_Clicked"
                                     CommandParameter="{Binding .}">
-                                </MenuItem>
-                            </ViewCell.ContextActions>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </StackLayout>
+                                    </MenuItem>
+                                </ViewCell.ContextActions>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
 
-        <StackLayout>
-            <Label Text="Cardio" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
-            <ListView
+            <StackLayout>
+                <Label Text="Cardio" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <ListView
                 x:Name="listCardio"
                 BackgroundColor="GhostWhite"
                 SeparatorColor="Silver"
                 RowHeight="50"
                 ItemTapped="listCardio_ItemTapped">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <StackLayout Orientation="Horizontal">
-                                <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
-                                </Label>
-                                <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
-                                </Label>
-                            </StackLayout>
-                            <ViewCell.ContextActions>
-                                <MenuItem
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                    </Label>
+                                    <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                    </Label>
+                                </StackLayout>
+                                <ViewCell.ContextActions>
+                                    <MenuItem
                                     x:Name="editMenuItem"
                                     Text="Edit"
                                     IsDestructive="False"
                                     Clicked="editMenuItem_Clicked"
                                     CommandParameter="{Binding .}">
-                                </MenuItem>
-                                <MenuItem
+                                    </MenuItem>
+                                    <MenuItem
                                     x:Name="deleteMenuItem"
                                     Text="Delete"
                                     IsDestructive="True"
                                     Clicked="deleteMenuItem_Clicked"
                                     CommandParameter="{Binding .}">
-                                </MenuItem>
-                            </ViewCell.ContextActions>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </StackLayout>
-    </VerticalStackLayout>
+                                    </MenuItem>
+                                </ViewCell.ContextActions>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

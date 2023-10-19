@@ -7,16 +7,18 @@
         <ToolbarItem x:Name="saveToolbarItem" Text="Save" Clicked="saveToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <VerticalStackLayout Padding="10">
-        <HorizontalStackLayout>
-            <Label Text="Exercise Name" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
-            <Entry x:Name="entryExerciseName"  Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
-        </HorizontalStackLayout>
+    <ScrollView>
+        <VerticalStackLayout Padding="10">
+            <HorizontalStackLayout>
+                <Label Text="Exercise Name" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                <Entry x:Name="entryExerciseName"  Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+            </HorizontalStackLayout>
 
-        <HorizontalStackLayout>
-            <Label Text="Exercise Amount" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
-            <Entry x:Name="entryExerciseAmount" Keyboard="Numeric" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
-            <Picker x:Name="amountUnitPicker" Title="Unit"></Picker>
-        </HorizontalStackLayout>
-    </VerticalStackLayout>
+            <HorizontalStackLayout>
+                <Label Text="Exercise Amount" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                <Entry x:Name="entryExerciseAmount" Keyboard="Numeric" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+                <Picker x:Name="amountUnitPicker" Title="Unit"></Picker>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

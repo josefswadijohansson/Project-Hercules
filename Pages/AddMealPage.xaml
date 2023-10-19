@@ -8,31 +8,33 @@
         <ToolbarItem x:Name="searchToolbarItem" Text="Add Item" Clicked="searchToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <VerticalStackLayout Padding="10">
-        <ListView 
+    <ScrollView>
+        <VerticalStackLayout Padding="10">
+            <ListView 
             x:Name="listMealComponents"
             BackgroundColor="Transparent"
             SeparatorColor="Silver"
             RowHeight="55">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                        <Label Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
-                        </Label>
-                            <Entry x:Name="entryAmountMealComponent" Keyboard="Numeric" Text="{Binding Amount}" TextChanged="entryAmountMealComponent_TextChanged" Placeholder="amount(g)" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
-                        </Entry>
-                        </StackLayout>
-                        <ViewCell.ContextActions>
-                            <MenuItem
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                </Label>
+                                <Entry x:Name="entryAmountMealComponent" Keyboard="Numeric" Text="{Binding Amount}" TextChanged="entryAmountMealComponent_TextChanged" Placeholder="amount(g)" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                </Entry>
+                            </StackLayout>
+                            <ViewCell.ContextActions>
+                                <MenuItem
                                 Text="Delete"
                                 Clicked="MenuItem_Clicked"
                                 CommandParameter="{Binding .}">
-                            </MenuItem>
-                        </ViewCell.ContextActions>
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </VerticalStackLayout>
+                                </MenuItem>
+                            </ViewCell.ContextActions>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

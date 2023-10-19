@@ -1,5 +1,7 @@
 ﻿namespace ProjectHercules;
 using ProjectHercules.Pages;
+using System.Diagnostics;
+
 public partial class App : Application
 {
     public static App Instance;
@@ -9,5 +11,11 @@ public partial class App : Application
 		InitializeComponent();
         Instance = this;
         MainPage = new AppShell();
+    }
+
+    protected override void OnResume()
+    {
+        //Todo maybe add so the app load all the data on new, to ensure the user have the saved data always when the app reopens.
+        base.OnResume();
     }
 }

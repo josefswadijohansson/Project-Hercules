@@ -14,7 +14,7 @@ namespace ProjectHercules.Models
         { 
             get
             {
-                return $"C={TotalCalories}, F={TotalFat}g, C={TotalFat}g, P={TotalProtein}g, S={TotalSalt}g";
+                return $"C={TotalCalories.ToString("0.00")}, F={TotalFat.ToString("0.00")}g, C={TotalFat.ToString("0.00")}g, P={TotalProtein.ToString("0.00")}g, S={TotalSalt.ToString("0.00")}g";
             }
         }
 
@@ -86,19 +86,30 @@ namespace ProjectHercules.Models
             }
         }
 
-        public void AddComponent(MealComponent mealComponent)
+        public void AddComponent(MealComponent mealComponent, bool makeCopy=true)
         {
-            var mealC = _mealComponents.FirstOrDefault(x => x.Name == mealComponent.Name);
-
-            if (mealC == null)
+            if(makeCopy == true)
             {
-                _mealComponents.Add(mealComponent);
+                var mealC = _mealComponents.FirstOrDefault(x => x.Name == mealComponent.Name);
+
+                if (mealC == null)
+                {
+                    MealComponent mealComponentCopy = MealComponent.GetCopy(mealComponent);
+                    if (mealComponentCopy != null)
+                    {
+                        mealComponentCopy.Id = _mealComponents.Count;
+                        _mealComponents.Add(mealComponentCopy);
+                    }
+                }
+                else
+                {
+                    return;
+                }
             }
             else
             {
-                //It already exist in the list, maybe just add the nutrient values to the existing meal component.
-                mealC.AddValues(mealComponent);
-                return;
+                mealComponent.Id = _mealComponents.Count;
+                _mealComponents.Add(mealComponent);
             }
         }
 
@@ -113,9 +124,33 @@ namespace ProjectHercules.Models
             }
             else
             {
-                // It doesnt exist in the list
                 return;
             }
+        }
+
+        public bool Contains(MealComponent mealComponent)
+        {
+            var mealC = _mealComponents.FirstOrDefault(x => x.Name == mealComponent.Name);
+
+            if (mealC != null)
+            {
+                //It exist remove it from the list
+                return true;
+            }
+
+            return false;
+        }
+
+        public override string ToString()
+        {
+            string returnValue = $"{Name}";
+
+            foreach(MealComponent mealComponent in _mealComponents)
+            {
+                returnValue += $",{mealComponent.Name}:{mealComponent.Amount}";
+            }
+
+            return returnValue;
         }
     }
 }

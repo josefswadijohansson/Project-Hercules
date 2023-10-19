@@ -8,42 +8,44 @@
         <ToolbarItem x:Name="addToolbarItem" Text="+" Clicked="addToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <VerticalStackLayout
+    <ScrollView>
+        <VerticalStackLayout
         Padding="5"
         Spacing="30"
         BackgroundColor="White">
-        <StackLayout>
-            <Label Text="Meals" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
-            <ListView
+            <StackLayout>
+                <Label Text="Meals" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <ListView
                 x:Name="listMeals"
                 BackgroundColor="GhostWhite"
                 SeparatorColor="Silver"
                 RowHeight="50">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <TextCell
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell
                             Text="{Binding Name}"
                             Detail="{Binding NutritionalFact}">
-                            <TextCell.ContextActions>
-                                <MenuItem
+                                <TextCell.ContextActions>
+                                    <MenuItem
                                     x:Name="editMenuItem"
                                     Text="Edit"
                                     Clicked="editMenuItem_Clicked"
                                     IsDestructive="False"
                                     CommandParameter="{Binding .}">
-                                </MenuItem>
-                                <MenuItem
+                                    </MenuItem>
+                                    <MenuItem
                                     x:Name="deleteMenuItem"
                                     Text="Delete"
                                     IsDestructive="True"
                                     Clicked="deleteMenuItem_Clicked"
                                     CommandParameter="{Binding .}">
-                                </MenuItem>
-                            </TextCell.ContextActions>
-                        </TextCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </StackLayout>
-    </VerticalStackLayout>
+                                    </MenuItem>
+                                </TextCell.ContextActions>
+                            </TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

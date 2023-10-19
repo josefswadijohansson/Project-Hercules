@@ -8,6 +8,8 @@ namespace ProjectHercules.Models
 {
     public static class ExerciseRepository
     {
+        public static readonly string SavedDataKey = "exercises_savedValue";
+
         public static List<Exercise> Exercises = new List<Exercise>()
         {
             /*new Exercise{ ExerciseId = 0, ExerciseName = "Deadlift", ExerciseValue = 10 },
@@ -78,7 +80,6 @@ namespace ProjectHercules.Models
             return true;
         }
 
-
         public static bool DeleteExercise(int exerciseId)
         {
             var exercise = Exercises.FirstOrDefault(x => x.ExerciseId == exerciseId);
@@ -129,6 +130,11 @@ namespace ProjectHercules.Models
             }
 
             Preferences.Set("exercises_savedValue", dataToSave);
+        }
+
+        public static void Clean()
+        {
+            Exercises = new List<Exercise>();
         }
     }
 }

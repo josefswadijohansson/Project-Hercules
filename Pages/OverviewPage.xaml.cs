@@ -5,6 +5,7 @@ using ProjectHercules.Models;
 
 public partial class OverviewPage : ContentPage
 {
+
     public OverviewPage()
 	{
 		InitializeComponent();

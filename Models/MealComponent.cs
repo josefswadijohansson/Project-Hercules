@@ -8,6 +8,7 @@ namespace ProjectHercules.Models
 {
     public class MealComponent
     {
+        public int Id = -1;
         private string _name;
         private float _amount = 0;  //in gram
 
@@ -15,7 +16,7 @@ namespace ProjectHercules.Models
         {
             get
             {
-                return $"C={Calories.NutrientValue}, F={Fat.NutrientValue}g, C={Carbs.NutrientValue}g, P={Protein.NutrientValue}g, S={Salt.NutrientValue}g";
+                return $"C={Calories.NutrientValue.ToString("0.00")}, F={Fat.NutrientValue.ToString("0.00")}g, C={Carbs.NutrientValue.ToString("0.00")}g, P={Protein.NutrientValue.ToString("0.00")}g, S={Salt.NutrientValue.ToString("0.00")}g";
             }
         }
 
@@ -161,7 +162,21 @@ namespace ProjectHercules.Models
             }
         }
 
-        public MealComponent(string name, float calories, float fat, float carbs, float protein, float salt)
+        public static MealComponent GetCopy(MealComponent mealComponent)
+        {
+            if(mealComponent == null)
+            {
+                return null;
+            }
+
+            return new MealComponent(mealComponent.Name, -1,    mealComponent.Calories.NutrientValue,
+                                                                mealComponent.Fat.NutrientValue, 
+                                                                mealComponent.Carbs.NutrientValue, 
+                                                                mealComponent.Protein.NutrientValue, 
+                                                                mealComponent.Salt.NutrientValue);
+        }
+
+        public MealComponent(string name, int id, float calories, float fat, float carbs, float protein, float salt)
         {
             _name = name;
             _calories.NutrientValue = calories;

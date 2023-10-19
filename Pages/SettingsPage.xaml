@@ -3,10 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectHercules.Pages.SettingsPage"
              Title="Settings">
-    <VerticalStackLayout>
+    <VerticalStackLayout Padding="5">
+        <Button x:Name="removeAllDataButton" 
+                Text="Remove all saved data"
+                Clicked="removeAllDataButton_Clicked"
+                WidthRequest="200"
+                HeightRequest="50">
+            
+        </Button>
         <Label 
-            Text="Not yet implemented"
-            VerticalOptions="Center" 
+            Text="Application made by Josef Swadi Johansson"
+            VerticalOptions="End"
             HorizontalOptions="Center" />
     </VerticalStackLayout>
 </ContentPage>

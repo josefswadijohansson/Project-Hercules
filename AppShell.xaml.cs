@@ -10,6 +10,7 @@ public partial class AppShell : Shell
 
         ExerciseRepository.LoadDataFromPreference();
         FoodDatabase.LoadData();
+        FoodIntake.LoadDataFromPrefences();
 
         Routing.RegisterRoute(nameof(OverviewPage), typeof(OverviewPage));
         Routing.RegisterRoute(nameof(FoodIntakePage), typeof(FoodIntakePage));
@@ -20,6 +21,8 @@ public partial class AppShell : Shell
         Routing.RegisterRoute(nameof(EditExercisePage), typeof(EditExercisePage));
 
         Routing.RegisterRoute(nameof(AddMealPage), typeof(AddMealPage));
+        Routing.RegisterRoute(nameof(EditMealPage), typeof(EditMealPage));
         Routing.RegisterRoute($"{nameof(AddMealPage)}/{nameof(SearchMealComponentPage)}", typeof(SearchMealComponentPage));
+
     }
 }

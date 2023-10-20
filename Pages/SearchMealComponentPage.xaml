@@ -8,8 +8,9 @@
         <VerticalStackLayout Padding="10">
             <SearchBar
             x:Name="searchBar"
-            Placeholder="Search Contact"
-            TextChanged="searchBar_TextChanged">
+            Placeholder="Search for items"
+            TextChanged="searchBar_TextChanged"
+            BackgroundColor="Transparent">
             </SearchBar>
 
             <ListView 

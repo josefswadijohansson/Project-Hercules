@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = ProjectHercules
+build_property.ProjectDir = C:\Users\Josef\source\repos\Project-Hercules\
+
+[C:/Users/Josef/source/repos/Project-Hercules/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/AddExercisePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.AddExercisePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddExercisePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddExercisePage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/AddMealPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.AddMealPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddMealPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddMealPage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/EditExercisePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.EditExercisePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EditExercisePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EditExercisePage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/EditMealPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.EditMealPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EditMealPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EditMealPage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/FitnessPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.FitnessPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FitnessPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FitnessPage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/FoodIntakePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.FoodIntakePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FoodIntakePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FoodIntakePage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/OverviewPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.OverviewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OverviewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OverviewPage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/SearchMealComponentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.SearchMealComponentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SearchMealComponentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SearchMealComponentPage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Pages/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Pages.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SettingsPage.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Josef/source/repos/Project-Hercules/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectHercules.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

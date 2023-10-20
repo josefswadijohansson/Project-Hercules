@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\barbell.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\barbell@2x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\barbell@3x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\bowl.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\bowl@2x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\bowl@3x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\dashboard.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\dashboard@2x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\dashboard@3x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot@2x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot@3x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\settings.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\settings@2x.png" />
+    <BundleResource Include="C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\resizetizer\r\settings@3x.png" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\OpenSans-Regular.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\OpenSans-Semibold.ttf" />
+  </ItemGroup>
+</Project>

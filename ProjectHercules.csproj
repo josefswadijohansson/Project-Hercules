@@ -15,7 +15,7 @@
 		<ApplicationTitle>ProjectHercules</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.projecthercules</ApplicationId>
+		<ApplicationId>com.klipeio.projecthercules</ApplicationId>
 		<ApplicationIdGuid>5ba74cba-f319-438c-a1a2-df1e8ed4d77e</ApplicationIdGuid>
 
 		<!-- Versions -->
@@ -28,6 +28,10 @@
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</SupportedOSPlatformVersion>
 		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net7.0-android|AnyCPU'">
+	  <AndroidPackageFormat>apk</AndroidPackageFormat>
 	</PropertyGroup>
 
 	<ItemGroup>

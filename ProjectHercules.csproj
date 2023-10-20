@@ -88,6 +88,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Folder Include="Screenshots\" />
 	  <Folder Include="Project Documents\" />
 	</ItemGroup>
 

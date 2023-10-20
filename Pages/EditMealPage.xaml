@@ -21,7 +21,7 @@
                             <StackLayout Orientation="Horizontal">
                                 <Label TextColor="Black" Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
                                 </Label>
-                                <Entry TextColor="Black" x:Name="entryAmountMealComponent" Keyboard="Numeric" Text="{Binding Amount}" TextChanged="entryAmountMealComponent_TextChanged" Placeholder="amount(g)" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                <Entry TextColor="Black" x:Name="entryAmountMealComponent" Keyboard="Numeric" Text="{Binding Amount}" TextChanged="entryAmountMealComponent_TextChanged" Placeholder="amount(g)" PlaceholderColor="Grey" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
                                 </Entry>
                             </StackLayout>
                             <ViewCell.ContextActions>

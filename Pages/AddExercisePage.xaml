@@ -7,17 +7,17 @@
         <ToolbarItem x:Name="saveToolbarItem" Text="Save" Clicked="saveToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <ScrollView>
+    <ScrollView Background="White">
         <VerticalStackLayout Padding="10">
             <HorizontalStackLayout>
-                <Label Text="Exercise Name" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
-                <Entry x:Name="entryExerciseName"  Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+                <Label TextColor="Black" Text="Exercise Name" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                <Entry TextColor="Black" x:Name="entryExerciseName"  Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
             </HorizontalStackLayout>
 
             <HorizontalStackLayout>
-                <Label Text="Exercise Amount" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
-                <Entry x:Name="entryExerciseAmount" Keyboard="Numeric" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
-                <Picker x:Name="amountUnitPicker" Title="Unit"></Picker>
+                <Label TextColor="Black" Text="Exercise Amount" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                <Entry TextColor="Black" x:Name="entryExerciseAmount" Keyboard="Numeric" Text="" VerticalOptions="Center" HorizontalOptions="EndAndExpand" WidthRequest="100"/>
+                <Picker TextColor="Black" TitleColor="Grey" Title="Unit" x:Name="amountUnitPicker"></Picker>
             </HorizontalStackLayout>
         </VerticalStackLayout>
     </ScrollView>

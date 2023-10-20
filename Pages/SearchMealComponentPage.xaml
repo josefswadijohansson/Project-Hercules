@@ -4,13 +4,14 @@
              x:Class="ProjectHercules.Pages.SearchMealComponentPage"
              Title="Search Meal Component">
 
-    <ScrollView>
+    <ScrollView Background="White">
         <VerticalStackLayout Padding="10">
             <SearchBar
             x:Name="searchBar"
             Placeholder="Search for items"
             TextChanged="searchBar_TextChanged"
-            BackgroundColor="Transparent">
+            BackgroundColor="Transparent"
+            TextColor="Black">
             </SearchBar>
 
             <ListView 
@@ -25,7 +26,9 @@
                     <DataTemplate>
                         <TextCell
                         Text="{Binding Name}"
-                        Detail="{Binding NutritionalFact}">
+                        Detail="{Binding NutritionalFact}"
+                        TextColor="Black"
+                        DetailColor="Black">
                         </TextCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

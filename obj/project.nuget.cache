@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4SPSPE5y9MD76w6o5vauF2ATEyp85iaikPUgwcAseQzjkz0VixGAp2I9PX/9wf4NEyqL/QUHQLnhlfKlLBliDw==",
+  "dgSpecHash": "6xjecXBzZhaoCd9BBKo3oJ+0pg8W9DwRwu3i1HwCUx0ga9jHeL6S/nmYbMMLKd9yUTfXn4ZkyOEFtI4K3YW7sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Josef\\source\\repos\\Project-Hercules\\ProjectHercules.csproj",
   "expectedPackageFiles": [
@@ -105,8 +105,6 @@
     "C:\\Users\\Josef\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.6.4.1\\xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
     "C:\\Users\\Josef\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.iossimulator-x64\\7.0.5\\microsoft.netcore.app.runtime.mono.iossimulator-x64.7.0.5.nupkg.sha512",
     "C:\\Users\\Josef\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.maccatalyst-x64\\7.0.5\\microsoft.netcore.app.runtime.mono.maccatalyst-x64.7.0.5.nupkg.sha512",
-    "C:\\Users\\Josef\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.maccatalyst-arm64\\7.0.5\\microsoft.netcore.app.runtime.mono.maccatalyst-arm64.7.0.5.nupkg.sha512",
-    "C:\\Users\\Josef\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.5\\microsoft.netcore.app.crossgen2.win-x64.7.0.5.nupkg.sha512",
     "C:\\Users\\Josef\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512",
     "C:\\Users\\Josef\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
     "C:\\Users\\Josef\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",

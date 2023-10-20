@@ -9,8 +9,6 @@ public partial class AppShell : Shell
 		InitializeComponent();
 
         ExerciseRepository.LoadDataFromPreference();
-        FoodDatabase.LoadData();
-        FoodIntake.LoadDataFromPrefences();
 
         Routing.RegisterRoute(nameof(OverviewPage), typeof(OverviewPage));
         Routing.RegisterRoute(nameof(FoodIntakePage), typeof(FoodIntakePage));

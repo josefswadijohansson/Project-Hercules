@@ -1,4 +1,6 @@
 ﻿namespace ProjectHercules;
+
+using ProjectHercules.Models;
 using ProjectHercules.Pages;
 using System.Diagnostics;
 
@@ -10,6 +12,8 @@ public partial class App : Application
 	{
 		InitializeComponent();
         Instance = this;
+        FoodDatabase.LoadData();
+
         MainPage = new AppShell();
     }
 

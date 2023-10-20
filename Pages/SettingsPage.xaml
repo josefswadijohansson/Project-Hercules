@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectHercules.Pages.SettingsPage"
              Title="Settings">
-    <VerticalStackLayout Padding="5">
+    <VerticalStackLayout Padding="5" BackgroundColor="White">
         <Button x:Name="removeAllDataButton" 
                 Text="Remove all saved data"
                 Clicked="removeAllDataButton_Clicked"
@@ -14,6 +14,7 @@
         <Label 
             Text="Application made by Josef Swadi Johansson"
             VerticalOptions="End"
-            HorizontalOptions="Center" />
+            HorizontalOptions="Center"
+            TextColor="Black"/>
     </VerticalStackLayout>
 </ContentPage>

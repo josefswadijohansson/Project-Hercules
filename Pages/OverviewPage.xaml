@@ -2,15 +2,14 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectHercules.Pages.OverviewPage"
-             Title="Overview"
-             BackgroundColor="Black">
-    <ScrollView>
+             Title="Overview">
+    <ScrollView BackgroundColor="White">
         <VerticalStackLayout
         Padding="5"
         Spacing="30"
         BackgroundColor="White">
             <StackLayout>
-                <Label Text="Food Intake" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <Label TextColor="Black" Text="Food Intake" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
                 <ListView
                 x:Name="listNutrients"
                 BackgroundColor="GhostWhite"
@@ -20,9 +19,9 @@
                         <DataTemplate>
                             <ViewCell>
                                 <StackLayout Orientation="Horizontal">
-                                    <Label Text="{Binding NutrientName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                    <Label TextColor="Black"  Text="{Binding NutrientName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
                                     </Label>
-                                    <Label Text="{Binding NutrientValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                    <Label TextColor="Black" Text="{Binding NutrientValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
                                     </Label>
                                 </StackLayout>
                             </ViewCell>
@@ -32,7 +31,7 @@
             </StackLayout>
 
             <StackLayout>
-                <Label Text="Exercise" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <Label TextColor="Black" Text="Exercise" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
                 <ListView
                 x:Name="listExercises"    
                 BackgroundColor="GhostWhite"
@@ -43,9 +42,9 @@
                         <DataTemplate>
                             <ViewCell>
                                 <StackLayout Orientation="Horizontal">
-                                    <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                    <Label TextColor="Black" Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
                                     </Label>
-                                    <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                    <Label TextColor="Black" Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
                                     </Label>
                                 </StackLayout>
                             </ViewCell>

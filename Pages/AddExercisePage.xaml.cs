@@ -3,8 +3,7 @@ using ProjectHercules.Models;
 
 public partial class AddExercisePage : ContentPage
 {
-    
-
+    public string UnitName { get; set; }
     public AddExercisePage()
 	{
 		InitializeComponent();

@@ -89,6 +89,8 @@ namespace ProjectHercules.Models
                     }
                 }
             }
+
+            FoodIntake.LoadDataFromPrefences();
         }
 
         public static List<MealComponent> GetAllMealComponents() => _mealComponentsDatabase;

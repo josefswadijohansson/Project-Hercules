@@ -8,13 +8,13 @@
         <ToolbarItem x:Name="addToolbarItem" Text="+" Clicked="addToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <ScrollView>
+    <ScrollView BackgroundColor="White">
         <VerticalStackLayout
         Padding="5"
         Spacing="30"
         BackgroundColor="White">
             <StackLayout>
-                <Label Text="Meals" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <Label TextColor="Black" Text="Meals" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
                 <ListView
                 x:Name="listMeals"
                 BackgroundColor="GhostWhite"
@@ -24,7 +24,9 @@
                         <DataTemplate>
                             <TextCell
                             Text="{Binding Name}"
-                            Detail="{Binding NutritionalFact}">
+                            Detail="{Binding NutritionalFact}"
+                            TextColor="Black"
+                            DetailColor="Black">
                                 <TextCell.ContextActions>
                                     <MenuItem
                                     x:Name="editMenuItem"

@@ -6,13 +6,13 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem x:Name="addToolbarItem" Text="+" Clicked="addToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
-    <ScrollView>
+    <ScrollView BackgroundColor="White">
         <VerticalStackLayout
         Padding="5"
         Spacing="30"
         BackgroundColor="White">
             <StackLayout>
-                <Label Text="Weights" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <Label TextColor="Black" Text="Weights" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
                 <ListView
                 x:Name="listWeights"
                 BackgroundColor="GhostWhite"
@@ -22,9 +22,9 @@
                         <DataTemplate>
                             <ViewCell>
                                 <StackLayout Orientation="Horizontal">
-                                    <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                    <Label TextColor="Black" Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
                                     </Label>
-                                    <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                    <Label TextColor="Black" Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
                                     </Label>
                                 </StackLayout>
                                 <ViewCell.ContextActions>
@@ -50,7 +50,7 @@
             </StackLayout>
 
             <StackLayout>
-                <Label Text="Cardio" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
+                <Label TextColor="Black" Text="Cardio" FontSize="Title" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
                 <ListView
                 x:Name="listCardio"
                 BackgroundColor="GhostWhite"
@@ -61,9 +61,9 @@
                         <DataTemplate>
                             <ViewCell>
                                 <StackLayout Orientation="Horizontal">
-                                    <Label Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
+                                    <Label TextColor="Black" Text="{Binding ExerciseName}" VerticalOptions="Center" HorizontalOptions="Start" Margin="5,0,0,0">
                                     </Label>
-                                    <Label Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
+                                    <Label TextColor="Black" Text="{Binding ExerciseValueAsString}" VerticalOptions="Center" HorizontalOptions="EndAndExpand" Margin="0,0,5,0">
                                     </Label>
                                 </StackLayout>
                                 <ViewCell.ContextActions>

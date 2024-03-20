@@ -14,6 +14,8 @@ public partial class App : Application
         Instance = this;
         FoodDatabase.LoadData();
 
+        Application.Current.UserAppTheme = AppTheme.Light;
+
         MainPage = new AppShell();
     }
 

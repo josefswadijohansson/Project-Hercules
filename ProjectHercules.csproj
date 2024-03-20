@@ -88,6 +88,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Folder Include="Extensions\" />
 	  <Folder Include="Screenshots\" />
 	  <Folder Include="Project Documents\" />
 	</ItemGroup>

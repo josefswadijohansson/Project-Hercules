@@ -4,14 +4,15 @@
              x:Class="ProjectHercules.Pages.SearchMealComponentPage"
              Title="Search Meal Component">
 
-    <ScrollView Background="White">
+    <ScrollView x:Name="scrollView" Background="White">
         <VerticalStackLayout Padding="10">
             <SearchBar
-            x:Name="searchBar"
-            Placeholder="Search for items"
-            TextChanged="searchBar_TextChanged"
-            BackgroundColor="Transparent"
-            TextColor="Black">
+                x:Name="searchBar"
+                Placeholder="Search for items"
+                TextChanged="searchBar_TextChanged"
+                BackgroundColor="Transparent"
+                TextColor="Black"
+                SearchButtonPressed="searchBar_SearchButtonPressed">
             </SearchBar>
 
             <ListView 
@@ -21,7 +22,7 @@
             RowHeight="55"
             ItemTapped="listMealComponents_ItemTapped"
             ItemSelected="listMealComponents_ItemSelected"
-            >
+            Scrolled="listMealComponents_Scrolled">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <TextCell
@@ -33,6 +34,18 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
+
+
+
+            <HorizontalStackLayout Spacing="10" HorizontalOptions="Center" Margin="0,20,0,0">
+                
+                <Button x:Name="previousButton" Text="&lt;" Clicked="previousButton_Clicked"/>
+
+                <Label x:Name="pageCountLabel" Text="0" VerticalOptions="Center" HorizontalOptions="Center"/>
+
+                <Button x:Name="nextButton" Text="&gt;" Clicked="nextButton_Clicked"/>
+                
+            </HorizontalStackLayout>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

@@ -2,6 +2,7 @@ using ProjectHercules.Models;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Globalization;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace ProjectHercules.Pages;
 
@@ -87,6 +88,15 @@ public partial class AddMealPage : ContentPage
                     {
                         try
                         {
+                            int cursorPosition = ((Entry)sender).CursorPosition;
+
+                            int value = int.Parse(((Entry)sender).Text);
+                            if (value > 0)
+                            {
+                                ((Entry)sender).Text = $"{value}";
+
+                                ((Entry)sender).CursorPosition = ((Entry)sender).Text.Length;
+                            }
                             mC.Amount = float.Parse(((Entry)sender).Text, CultureInfo.InvariantCulture);
                         }
                         catch { }
@@ -94,6 +104,7 @@ public partial class AddMealPage : ContentPage
                     else
                     {
                         mC.Amount = 0;
+                        ((Entry)sender).Text = $"{0}";
                     }
                 }
             }

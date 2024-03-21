@@ -281,3 +281,4 @@ C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-ios\iossimulator
 C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-ios\iossimulator-x64\ProjectHercules.pdb
 C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-ios\iossimulator-x64\ProjectHercules.genruntimeconfig.cache
 C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-ios\iossimulator-x64\ref\ProjectHercules.dll
+C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-ios\iossimulator-x64\ProjectHercules.sourcelink.json

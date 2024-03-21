@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectHercules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3be69aa30d0760e615b0d9789fd0a0089f04b87c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectHercules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectHercules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

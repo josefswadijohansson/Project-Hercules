@@ -252,3 +252,4 @@ C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\macc
 C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\maccatalyst-x64\ProjectHercules.pdb
 C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\maccatalyst-x64\ProjectHercules.genruntimeconfig.cache
 C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\maccatalyst-x64\ref\ProjectHercules.dll
+C:\Users\Josef\source\repos\Project-Hercules\obj\Release\net7.0-maccatalyst\maccatalyst-x64\ProjectHercules.sourcelink.json

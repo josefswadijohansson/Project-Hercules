@@ -1,0 +1,1450 @@
+Livsmedelsnamn,Livsmedelsnummer,Energy (kcal),Carbohydrates (g),Fat (g),Protein (g),Fibre (g),Sugar total (g),Salt (g)
+Beef tallow,1,656,0,71,7,0,0,0.03
+Pork lard,2,763,0,85,2.8,0,0,0.03
+Pig lard,3,884,0,100,0,0,0,0.01
+Coconut butter,4,884,0,100,0,0,0,0
+"Blended spread (80% fat, salted)",5,712,0.5,80,0.5,0,0.4,2
+"Blended spread (60% fat, fortified)",6,534,0.5,60,0.4,0,0.5,1
+"Margarine liquid fat (82 % fat, fortified)",10,721,0,82,0,0,0,1.5
+"Margarine for cooking/baking (80% fat, fortified)",13,712,0.5,80,0.5,0,0.3,1.5
+"Reduced-fat margarine (38% fat, fortified)",17,348,3,38,0,0,0,1.25
+"Reduced-fat margarine (40%fat, fortified)",20,381,6.2,40,0.51,0,0.5,1.25
+Mayonnaise (90% fat),21,784,0.41,87.81,1.46,0.07,0.1,0.56
+Rémoulade sauce,25,707,1.07,78.81,1.44,0.27,0.5,0.67
+Vinaigrette (45% fat),26,407,3.08,44.23,0.69,0.16,0.3,3.37
+"Blended spread (40% fat, fortified, omega-3)",28,377,5.5,40,0.3,0,0.5,1.25
+"Butter (80 % fat, salted)",29,729,0.5,82,0.4,0,0.5,1.2
+"Butter (80% fat, extra salted)",30,728,0.48,81.8,0.55,0,0.4,1.98
+"Butter (80% fat, unsalted) ",31,728,0.48,81.8,0.55,0,0.4,0.02
+Grapeseed oil,33,884,0,100,0,0,0,0
+Corn oil,34,884,0,100,0,0,0,0
+Olive oil,35,884,0,100,0,0,0,0
+Safflower oil,37,884,0,100,0,0,0,0
+Sesame oil,38,884,0,100,0,0,0,0
+Soya oil,39,884,0,100,0,0,0,0
+Sunflower oil,40,884,0,100,0,0,0,0
+Wheatgerm oil,41,884,0,100,0,0,0,0
+Salad dressing w/ mayonnaise (25% fat),45,303,19.7,25,0.5,0,18.2,1.73
+Salad dressing (0% fat),49,60,13.1,0,1.6,0,10.4,0.37
+Mayonnaise (80% fat),50,666,5,72.4,1.31,0,1.5,1.09
+Cucumber mayonnaise,51,333,10.9,32,0.8,1.1,10.2,0.47
+Shrimp salad,52,457,2.9,48,5.2,0,1.2,0.99
+Mayonnaise (32.5% fat),53,323,10.7,30.9,1.47,0,3.9,1.35
+Mimosasallad,55,147,9.09,11.75,0.78,1.38,8.2,0.38
+Beetroot salad,56,67,10.05,2.02,1.25,1.48,9.5,1.16
+Béarnaise sauce,58,496,1.18,54.44,2.55,0.1,0.3,0.65
+Hollandaise sauce,59,501,0.71,54.89,3,0,0.4,1.17
+Rhode island sauce,60,359,6.39,36.73,1.97,0.36,5.5,1.13
+Vinaigrette (65% fat),62,586,2.2,65,0.6,0,1,1.95
+"Whey cheese (30% fat, fortified)",66,460,39,29,11,0,39,0.73
+"Whey spread (5% fat, fortified)",68,260,46,5,7,0,48,1.11
+"Whey spread (2% fat, fortified)",69,245,49,2,7,0,49,1.43
+Cottage cheese (4% fat),70,100,1.9,4.3,13.4,0,1.6,0.68
+Cheese curd (Quark) (1% fat),75,75,3.6,1,12.7,0,2.9,0.1
+Cheese curd (Quark) (10% fat),76,152,2.9,10,12.7,0,3,0.1
+Hard cheese (10% fat),77,226,1.5,10,32.4,0,0,1.08
+Hard cheese (23% fat),78,325,0.8,23,29.19,0,0,1.18
+Hard cheese (26% fat),79,337,1.4,26,24.9,0,0,0.98
+Hard cheese (38% fat),80,421,1.2,38,19.8,0,0,1.18
+Processed cheese spread (8% fat),83,146,0.5,8,18.1,0,0.2,2.15
+Processed cheese spread (10% fat),84,160,0.3,10.1,17.1,0,0.2,2.5
+Processed cheese spread (20% fat),85,253,0.1,20.8,16.9,0,0.2,2.5
+Processed cheese spread (16% fat),86,208,1.5,15.5,16,0,0.2,2.33
+Processed cheese spread (4% fat),87,117,2,4,18,0,0.2,2.5
+"Brie white mould (34% fat, ripened)",92,378,2.1,34,16.95,0,0,1.11
+Feta cheese (22% fat),94,272,2.1,22.1,16.72,0,0.2,2.04
+Hard cheese (17% fat),95,280,1.5,17,30.3,0,0,1.08
+Hard cheese (28% fat),96,358,3,27.1,26.16,0,0,1.06
+Hard cheese (31% fat),97,392,3.3,31.2,25.2,0,0,1.02
+"Brie white mould (30% fat, ripened)",98,348,2.8,30.2,17.03,0,0.1,1.01
+"Halloumi cheese (22% fat, raw)",100,292,1.9,21.9,22.27,0,0.9,4.2
+Cream cheese (33% fat),101,343,2.4,33,10.2,0,2.1,1.43
+Parmesan Hard cheese (30% fat),103,449,3.8,30,41.5,0,3.7,2.5
+Cheese processed (22% fat),106,273,8.2,22.4,10.34,0,5.4,2.21
+Cream cheese (27% fat),107,276,2.4,27.34,6.06,0,2.7,0.67
+Cream cheese (15% fat),108,187,3.4,16,7.8,0,1.7,0.4
+Cream cheese (5% fat),109,116,4.7,5.29,12.25,0,2.8,0.85
+Breastmilk (human),113,68,8.68,3.13,1.3,0,7.2,0.04
+Fermented milk (3% fat),114,57,4.6,2.8,3.34,0,3.8,0.1
+"Condensed milk (8% fat, canned)",115,136,10,7.6,6.8,0,10,0.27
+"Condensed milk (9% fat, canned, w/ sugar)",116,331,54.6,8.7,7.9,0,55,0.32
+Skimmed milk powder (1% fat),118,365,51.98,0.77,36.16,0,51,1.34
+"Fermented milk (3% fat, butterwort fat)",119,60,4.84,3,3.42,0,3.8,0.1
+"Fermented milk (0.5% fat, skimmed)",120,39,5.03,0.5,3.51,0,4,0.11
+"Milk (3% fat, fortified)",123,60,4.7,3,3.51,0,4.8,0.1
+"Yoghurt (3% fat, natural)",124,56,4.5,2.7,3.37,0,2.9,0.09
+Fruit yoghurt (2.5% fat),125,97,15,2.5,3.3,0.5,14.5,0.09
+Fruit yoghurt (0.5% fat),126,76,14.3,0.5,3,0.5,14.2,0.09
+"Milk (4.2% fat, non emulsified)",127,70,4.8,4.2,3.38,0,4.7,0.1
+"Fermented milk w/ acidophilus (3% fat)",128,60,4.84,3,3.42,0,3.8,0.1
+"Fermented milk (1.5% fat, semi-skimmed)",130,48,4.98,1.5,3.47,0,3.8,0.1
+"Yoghurt (0.5% fat, natural)",135,42,5.5,0.5,3.86,0,3.2,0.12
+Fruit yoghurt (2% fat),136,93,15,2,3.3,0.5,14.5,0.09
+Delicacy yoghurt (7% fat),137,129,14,7,2.5,0,14,0.09
+Fruit yoghurt (<0.05% fat),138,52,8.8,0.05,3.78,0,9.8,0.09
+Fruit yoghurt (5% fat),139,127,14.6,5.07,5.57,0,13.5,0.12
+Fruit yoghurt 1.3% fat,140,93,13,1.35,7.04,0,12.7,0
+Kefir (3% fat),142,60,4.84,3,3.42,0,3.8,0.1
+"Mild yoghurt (0.5% fat, vanilla)",147,61,9.92,0.48,4.06,0,8.6,0.12
+"Milk (1.5% fat, semi-skimmed, fortified w/ vitamin D)",150,47,4.8,1.5,3.57,0,4.9,0.1
+"Milk (0.5% fat, semi-skimmed, fortified w/ vitamin D)",151,39,4.8,0.5,3.6,0,4.9,0.1
+Whey (liquid),152,25,5.12,0.09,0.76,0,5.1,0.12
+"Crisp bread (15.5% fibre, wholemeal, rye)",162,354,64.4,2.5,10,15.5,1.4,1
+"Crisp bread (18% fibre, wholemeal, rye, dk baked)",163,349,57.6,2.5,14.58,17.6,1.8,0.75
+"Crisp bread (5.5% fibre, wholemeal, wheat)",164,398,68.9,7.1,11.1,5.5,5.5,1.06
+"Crisp bread (14.5% fibre, wholemeal, rye)",165,345,63.3,2.4,9.61,14.5,2.2,1.63
+"Crisp bread (16% fibre, wholemeal, rye)",166,349,62.8,2,11.1,16,3.2,1.54
+"Crisp bread (15% fibre, wholemeal, rye)",167,362,68,2,9.5,15.4,4.5,0.46
+"Crisp bread (7% fibre, gluten free)",168,346,71.1,2,6.3,7,7.6,1.41
+"Crisp bread (13% fibre, wholemeal, rye)",169,353,65.7,2.6,9.3,13.2,2.7,1.38
+"Crisp bread (14% fibre, wholemeal, rye)",171,356,65.3,2.57,10.03,14.2,1.2,1.25
+"Crisp bread (15.5% fibre, wholemeal, rye, dk baked)",172,350,63.5,2.4,10,15.5,1.4,1.5
+"Crisp bread (16% fibre, wholemeal, rye extra coarse)",173,341,62.1,1.9,10,16.3,1.3,1.25
+"Crisp bread (24% fibre, wholemeal, rye, sesame seed, wheat bran, wheat sprouts)",174,355,45.3,8.2,13,24,2.4,1.5
+"Crisp bread (8% fibre, wholemeal, oat, wheat, rye)",178,379,61.7,6.8,13,8,3.1,1.25
+"Crisp bread (6% fibre, wheat w/ poppy seeds)",180,406,67.7,8.5,11,6,4.2,1
+"Crisp bread (7% fibre, wheat w/ sugar & cinnamon)",181,398,67.7,7.8,10,6.7,12.8,1
+"Crisp bread (3% fibre, gluten free)",182,385,69.1,6.5,10,3,3.8,2
+"Crisp bread (10.5% fibre, wholemeal, wheat, oat, bran w/ sugar, herbs)",183,391,60.9,8.4,12,10.5,8.2,2.5
+"Barley bread (3% fibre, wholemeal)",185,239,40.17,4.99,6.35,3.13,6.3,0.92
+"Scones (wholemeal, wheat)",186,283,37.99,10.88,6.14,3.98,2.1,1.39
+"Bread (10% fibre, wholemeal, rye)",187,221,40.8,1.6,5.4,9.9,3.5,0.93
+"Breadcrumbs crisp bread ground (5% fibre, wholemeal, wheat, rye)",188,396,72.6,6,9.39,4.9,3.6,1
+"Crisp bread (14% fibre ,wholemeal, rye, medium baked)",190,349,66,2,9.1,13.9,1.2,1.25
+"Hard bread (15% fibre, wholemeal, rye, wheat, corn, sour dough)",191,335,63.4,1.76,8.28,14.9,0.6,2.75
+White bread (3.5% fibre),193,274,53.64,1.58,8.64,3.4,1.8,1.15
+Hot dog bun,194,285,51.15,4.14,8.12,4.19,6,0.67
+"Crisp bread (14% fibre, wholemeal, rye, dk baked)",195,354,65.5,2.6,9.1,14.4,1.2,1.25
+"White bread (2.5% fibre, unsweetened)",198,256,50.16,1.4,8.58,2.45,2.3,1.2
+"Baguette (2.5% fibre, wheat)",200,270,53.2,1.66,8.49,2.59,3.6,1.04
+"Baguette (4.4% fibre, coarse, wholemeal, sour dough)",201,260,51.7,1.22,7.64,4.4,5.5,1.34
+White bread (3% fibre),204,293,56.67,3.11,7.36,3,8.4,0.5
+Scones (wheat),205,286,38.12,11.15,6.4,3.5,2.1,1.41
+"White bread (3.5% fibre, unleavened)",206,256,44.06,5.45,5.59,3.31,1,1.15
+"Wheat & rye bread (7% fibre, wholemeal, sifted flour)",207,270,47.27,4.74,5.48,7.04,10.8,0.66
+"Wheat & rye bread (3.5% fibre, unsweetened, sifted flour)",208,261,47.33,3.15,8.42,3.39,2.1,1.04
+"Wheat & rye bread (4% fibre, sifted flour)",209,266,51.41,2.34,7.12,3.8,8,0.77
+"Bread (5% fibre, wholemeal, wheat w/ milk)",210,279,46.1,5.2,8.9,4.9,1.9,1.2
+"Bread (wholemeal, rye)",213,246,46.1,2.09,5.89,8.46,3.7,1.21
+"Bread (5% fibre, wholemeal, rye, unsweetened)",214,239,46.11,1.55,7.08,5.03,4.3,0.85
+"Crisp bread (thin, wholemeal, wheat, rye, barley, oat)",216,353,68.9,3.5,10.09,5.1,2.6,0.75
+"Rice cracker (4% fat, wholemeal, sunflower seeds, corn)",224,394,77.4,4.37,7.89,4.8,0.6,0.32
+"Rice cracker (18% fat, wholemeal, flavoured)",225,461,65.8,18.08,6.97,2.9,3.3,1.62
+White bread (gluten free),226,238,47.3,3.62,1.81,3.2,3.7,0.99
+"Bread (dk baked, gluten free)",227,269,46.2,6.83,2.62,5.52,3.9,1.05
+Croissant,229,363,36.46,21.61,5.11,1.53,6.3,1.22
+"Potato w/ skins (baked, unsalted)",233,91,19.4,0.1,1.7,2.5,0.6,0.01
+Potatoes (canned),237,60,12.2,0.1,1.3,2.5,0.3,0.65
+"Potato (raw, pan-fried)",241,139,20.68,4.6,2.22,2.71,0.7,0.9
+"Potato (boiled, pan-fried)",242,143,21.85,4.59,2.28,2.6,0.6,1.14
+"French fries (7% fat, oven heated)",244,216,31.99,7.61,3.2,3.2,0.4,0.01
+"French fries (11% fat, fried)",245,243,30.6,11.4,3,3,0.5,0.01
+"French fries (17% fat, fast food)",246,307,32.6,17.5,3.5,3,0.4,0.43
+Sailor's beef,250,90,9.2,2.6,6.8,0.9,1.2,0.75
+Swedish hash,255,196,23.3,8.8,4.54,2.9,1.8,1.65
+Potato pancake,271,149,20,5.5,4.2,1,2.4,0.8
+Potato patties,273,166,22.52,6.04,3.96,2.45,0.8,0.99
+Mashed potatoes,274,89,14.08,2.2,2.3,1.52,1.7,0.79
+Potato croquette,282,177,23.9,7,2.76,3.6,0.4,0.9
+"Mashed potatoes (fortified, instant powder, prepared)",283,66,12.5,0.8,1.5,1.2,0.9,0.45
+Carrots,289,36,6.6,0.24,0.69,2.42,6.2,0.08
+Parsnip,290,71,12.6,0.6,1.69,3.76,6,0.01
+Horseradish,291,81,10.8,0.6,4.5,7.3,6.6,0.02
+Radish,293,11,0.7,0.4,0.69,1.1,1.4,0.05
+White radish,295,18,2.5,0.1,1,1.6,2.2,0.02
+Root parsley,296,61,10.7,0.6,2.3,1.6,3.7,0.04
+Turnip,297,35,6,0.3,1.1,1.9,3.9,0.04
+Salsify,298,75,14.2,0.4,1.4,4,3,0.01
+"Carrots (canned, whole contents)",299,23,3.9,0.2,0.6,1.4,3.4,0.6
+"Carrots (canned, drained)",300,23,4,0.2,0.6,1.5,3.8,0.6
+Carrot juice,301,34,6.3,0.4,0.7,1,4.7,0.1
+Mashed turnips,302,52,8.2,1.3,1,2.1,3.6,0.45
+"Carrot (boiled w/ salt)",305,36,6.57,0.24,0.69,2.41,6.2,0.47
+Jerusalem artichokes (boiled),310,69,12.85,0,1.99,4.48,3.2,0.4
+Root vegetable patties (fried),315,114,5.05,7.38,6.14,2.01,3.2,1.22
+Beetroots (boiled),316,51,9.8,0.1,1.19,2.64,9.4,0.05
+"Beetroot (pickled, drained)",319,58,12,0.1,1.31,1.68,12.4,0.43
+Avocado,320,197,1.7,19.6,1.94,4.75,0.5,0.01
+Celery,321,13,1.5,0.1,0.7,1.8,1.2,0.16
+Cauliflower,322,24,2.6,0.17,1.94,2.33,2.7,0.02
+Broad beans (boiled),324,102,9.7,1,9,9,1.1,0.01
+Mung bean sprouts,329,34,3.2,0.4,3,3,0.8,0.02
+Soya bean sprouts,330,146,7,6.7,13.1,2.6,0.4,0.04
+Green beans,331,27,2.1,0.4,2.06,3.4,2.2,0
+Mushroom raw,333,27,2.7,0.23,2.38,2.4,0.1,0
+Curly chicory.,334,15,1,0.2,1.2,2.2,0.9,0.06
+Chicory,335,14,1.1,0.1,1,2.2,0.9,0.01
+Fennel,336,28,1.8,0.4,2.8,3.3,2.6,0.02
+Kale,337,40,3.2,0.7,3.38,3.7,2.1,0.05
+Cucumber,339,13,2.3,0.05,0.81,0,1.7,0.01
+Iceberg lettuce,340,14,2.5,0.12,0.81,0,2.2,0.01
+Globe artichoke,342,52,7.3,0.2,2.7,5,2.6,0.2
+Kohlrabi,343,29,4.4,0.1,1.7,1.8,2.9,0.05
+Onions (yellow),344,39,7.3,0.1,1.19,1.88,4.5,0.01
+Swiss chard,348,21,2.6,0.2,1.8,0.8,0.3,0.54
+Nettles,349,30,0.6,0.7,4.13,2.68,0.1,0.01
+Parsley leaves,352,35,4.4,0.3,2.2,2.9,0.8,0.09
+Pumpkin,353,26,4.4,0.1,1,1.7,2.7,0
+Leek,354,30,4.1,0.15,1.56,2.71,4,0.02
+Red cabbage,355,31,4.7,0.3,1.13,2.64,5,0.02
+Butterhead lettuce,356,14,1.1,0.2,1.4,1.2,0.8,0.02
+Savoy cabbage,357,28,3.6,0.1,2,2.5,3.2,0.07
+Chinese cabbage,358,21,2.68,0.14,1.31,1.62,2.5,0.02
+Mangetout peas,359,37,4.3,0.2,3.38,2.19,3.5,0
+Summer squash,362,14,2.5,0.1,0,1.8,3,0
+Tomato,364,18,2.6,0.13,0.81,1.3,2.8,0.01
+"Tomatoes (sundried, marinated in oil)",365,190,8.7,12.5,4.98,12.7,8.8,3.1
+Garden cress,366,37,4.3,0.7,2.6,1.6,0.2,0.04
+Watercress,367,15,0.5,0.3,1.88,1.5,0,0.09
+Wax beans,368,32,4.7,0.1,1.8,2.7,1.4,0.02
+Cabbage,370,30,4.7,0.1,1.13,2.58,5.7,0.02
+Garlic,371,160,31.1,0.5,6.4,1.5,3.9,0.04
+Asparagus (green/white),375,27,2.4,0.2,3.1,1.5,1.2,0.01
+Alfalfa sprouts,376,32,0.9,0.7,4,3,0.8,0.02
+Dill,377,58,7.4,0.8,3.7,2.8,0.8,0.07
+Chives,378,28,1.7,0.6,2.8,2.1,1.7,0.01
+Basil (fresh),379,25,0.44,0.61,2.54,3.9,0.3,0.01
+Chillies/hot peppers,380,47,9.2,0.2,2,0,4.5,0.02
+Lentil sprouts,384,125,19.1,0.6,9,3,0.8,0.03
+Sweet peppers (green/yellow/red),392,22,3.96,0.16,0.5,1.32,4.6,0
+"Bamboo shoots (canned, drained)",393,24,3.1,0.4,1.7,0.5,1.2,0.02
+"Green beans (canned, drained)",395,21,3,0.1,1.2,1.7,1.3,0.63
+"Mushrooms (canned, whole contents)",397,15,0.9,0.1,1.9,1.5,0.2,1
+"Corn kernels (canned, drained)",400,80,12.9,1.5,2.12,2.9,5.8,0.43
+"Olives green (marinated, drained)",401,128,1.1,13.1,0.63,2.6,0,3.4
+"Olives black (oil-coated, drained)",402,142,1.8,14.1,0.81,3.5,0,2.04
+"Asparagus white (canned, drained)",404,15,0.5,0.7,0.88,1.9,1.1,0.66
+"Asparagus soup (canned, prepared)",405,35,3.7,1.7,0.9,0.5,0.6,1.01
+Sauerkraut canned (whole contents),406,17,2,0.2,0.9,1.7,0.1,0.8
+"Tomatoes (canned, whole contents)",407,25,4.4,0.1,1.13,0.8,3.8,0.01
+"Tomato juice (RTD, canned)",408,18,2.7,0.1,0.8,1.4,3.2,0.9
+Tomato purée (canned),410,84,13.5,0.2,4.44,4.7,12.9,0.12
+"Wax beans (canned, drained)",411,24,2.5,0.3,1.4,2.7,1.3,0.59
+"Green peas (canned, whole contents)",412,63,10.5,0.3,3.5,2,4,0.59
+"Green peas (canned, drained)",413,60,7.3,0.4,4.4,4.9,3.6,0.5
+"Mung bean sprouts (canned, drained)",414,16,0.8,0.1,1.4,3,0.8,0.63
+"Soya beans sprouted (canned, drained)",415,16,0.6,0.2,1.6,3,0.4,0.2
+"Sweet pepper salad (pickled, drained)",416,31,4.3,0.4,1,3,4.5,1.32
+"Fungi (canned, drained)",418,23,0.9,0.5,2.5,2.3,0.2,0.41
+"Chanterelles (canned, drained)",419,36,4.8,0.7,1.4,2.3,0.4,0.41
+Cocktail onions (pickled),420,83,18.7,0.1,0.9,1.5,5,0.37
+"Tomatoes (green, pickled)",421,86,18.6,0.2,1.2,2,19.5,0.03
+"Tomatoes (canned, chopped contents)",422,22,3.7,0.2,0.81,1.23,3.6,0.04
+"Fefferoni (pickled, canned)",423,19,1.7,0.1,0.69,4.5,0.6,4.31
+"Mushrooms (canned, drained)",428,18,0.3,0.3,2.38,2.5,0.2,0.56
+Cauliflower (boiled),434,24,2.59,0.17,1.93,2.32,2.7,0.41
+Vegetable patties (fried),439,116,10.51,5.28,4.73,3.9,1.5,1.37
+Fresh cucumber (pickled),445,42,9.55,0.05,0.73,0.01,8.6,0.26
+"Onion (salted, fried)",446,53,8.23,1.14,1.34,2.12,5.1,1.19
+Onion (boiled),448,39,7.27,0.1,1.19,1.87,4.5,0.4
+Sweet peppers (blanched),451,28,5.02,0.21,0.63,1.67,5.8,0.5
+Leek (boiled),452,30,4.08,0.15,1.55,2.7,4,0.41
+Red cabbage (cooked),453,61,8.26,2.13,0.81,2.37,7.8,0.68
+Spinach (fried),455,28,0.63,1,2.81,2.53,0.8,1.69
+Mushrooms (fried),457,44,3.41,1.44,3.01,3.03,0.1,1.22
+Tomato sauce (Italian style),461,93,4.94,7.37,1.06,1.4,4.1,1.46
+Tomato sauce (Mexican style),462,22,3.43,0.14,0.96,1.46,2.8,1.29
+Cabbage (boiled),465,30,4.68,0.1,1.13,2.57,5.7,0.43
+Cabbage (browned),466,48,6.99,1.01,1.37,2.44,7.7,1.28
+Cabbage salad (Pizza Sallad),467,88,4.08,7.23,0.92,2.03,4.5,0.56
+Aubergine (boiled),469,24,2.79,0.13,1.43,2.98,3.3,0.51
+Aubergine (fried),470,72,2.59,5.78,1.33,2.76,3.1,1.7
+Peas carrots (boiled),471,52,7.72,0.32,2.93,3.41,5.6,0.5
+Cucumber (pickled),487,59,11.4,0.7,0.7,1.8,6.1,2.06
+Cucumber mix (pickled),488,78,16.6,0.4,1,1.8,15.7,1.5
+Fermented cucumber (drained),489,9,1,0,1,0.5,0.3,2.13
+"Cucumber (salted, drained)",490,15,1.4,0.2,0.9,1.8,0,3.5
+"Cucumber (pickled, drained)",491,43,8.2,0.3,0.9,1.8,4.5,2.28
+Globe artichoke (boiled),492,52,9.4,0.2,2.8,0.5,2,0.08
+Corn cobs (boiled),495,100,17.3,1,3.3,3.7,1.7,0.64
+Red cabbage (canned),500,72,15,0.2,1.5,1.5,15,0.02
+Vegetable juice (fermented),503,22,3.5,0.1,1.5,0.5,2.1,0.25
+Cabbage rolls (fried),511,102,8.05,5.04,5.36,1.41,5.1,1.16
+Cabbage pudding,512,111,9.55,4.47,7.45,1.35,6.7,1.3
+Pomegranate,520,56,7,0.6,0.7,10,10,0.01
+Grapefruit,521,43,8.3,0.5,0.88,0.9,6.9,0
+Guava,522,53,10,0.6,0.8,2,9.2,0.01
+Raspberries,523,34,4.1,0.6,1.2,3.7,4.1,0
+Cloudberries,525,54,7,0.9,1.3,6.3,7.7,0
+Strawberries,526,41,8.29,0.21,0.49,1.9,7.9,0
+Vegetable stock/paste/powder,535,238,24.61,8.81,14.88,0,12,42.63
+Agar (dried),537,314,74.3,0.3,2.3,0,0,0.01
+Quorn mycoprotein mince pieces fillets,538,104,5,2.1,13.7,4.8,0.8,0.83
+Vegetable paste,544,249,9.1,20,7.56,2.4,1.9,1.49
+Vegetable stock RTE,545,5,0.4,0.2,0.4,0,0.2,0.6
+Honeydew melon,546,33,7,0.1,0.5,0.7,6.8,0.03
+Musk melon,547,37,7.1,0.3,0.9,1,5,0.02
+Rhubarb (boiled),548,12,0.4,0.2,0.44,3.8,1,0
+Watermelon,549,34,7.5,0,0.6,0.6,8.7,0.01
+Pineapple,550,52,11.5,0.1,0.5,1.2,11.4,0
+Orange,551,50,10.4,0.2,0.81,1.2,8.2,0
+Apricot,552,51,9.3,0.4,1.4,2.1,8.3,0
+Banana,553,95,21.3,0.1,1.13,1.4,18.1,0
+Blackberries,554,43,7.5,0.2,1.13,3.4,5.6,0
+Blueberries,555,53,9.1,0.8,0.7,3.1,6.4,0.01
+Cherimoya,558,99,21.1,0.4,1.3,2.4,11.7,0
+Lemon,559,41,7.3,0.3,1.1,2,2,0.01
+Clementine/Mandarin/Satsuma,560,54,11.4,0.2,0.75,1.5,9.6,0
+Figs,561,58,11.7,0.3,0.8,2.5,11.5,0
+Elderberries,562,67,11.4,0.5,0.7,6.8,6.5,0.01
+Prickly pear,564,39,6.7,0.5,0.7,2.5,7.1,0.01
+Green Kiwi,565,55,9.6,0.9,0.81,2.7,8.3,0
+Gooseberries,566,38,5.7,0.6,0.8,3.4,5.4,0.01
+Physalis,567,57,8.9,0.63,1.81,4.2,11.7,0
+Kumquat,568,66,14.2,0.1,0.9,1.9,7.5,0.02
+Quinces,569,63,13.1,0.1,0.4,4,7.3,0.01
+Sour cherries,570,61,13.34,0.08,0.88,1.4,15.4,0
+Sweet cherries,571,69,14.68,0.1,1.09,1.87,14.6,0
+Lime,572,47,10.3,0.2,0.7,0.5,0.6,0.01
+Lingonberries/Cowberries,573,57,11,0.5,0.7,2.5,8.7,0
+Mango,574,56,11.3,0.6,0.69,1.1,10.4,0.01
+Plantain cooking banana,575,136,30.4,0.4,1.3,1.7,1.4,0.01
+Nectarine,576,53,10.9,0.3,0.94,1.3,9.8,0
+Papaya,577,48,8.9,0.6,0.75,1.8,9.5,0.04
+Paradise apple,578,81,17.9,0.3,0.4,2,5.8,0
+Passion fruit,579,76,7.4,0.7,2.2,15.9,6.2,0.07
+Peach,580,43,8.6,0.1,0.7,2.1,7.8,0.01
+Sharon,581,77,16.9,0.2,0.6,2,16,0
+Plums,582,47,10.18,0.05,0.5,1.84,7.2,0
+Pear,583,54,11.5,0.1,0.31,2.7,11.3,0
+Cranberries,584,46,8.9,0.2,0.4,3.3,3.4,0
+Red currant,585,48,8.7,0.2,1.2,3.4,7.5,0.01
+Black currant,586,77,11.47,1.28,1.38,7.07,8.3,0
+Apple,588,48,10.58,0.05,0,2.32,9.9,0
+Apple (peeled),589,58,13.4,0.1,0,0.9,10.5,0
+Orange zest,598,104,21.8,0.2,1.5,3.7,0,0.01
+Apricot (dried),599,190,41,0.5,2.19,5.3,39.4,0.02
+Banana (dried),600,374,80.8,1.8,3.9,7.5,58.9,0.01
+Blueberries (dried),601,330,69.8,1,4.6,10,45.9,0.04
+Lemon zest,602,64,11.9,0.3,1.5,3.7,0,0.02
+Dates (dried),603,321,71.9,0.6,2.38,7.5,58,0.03
+Figs (dried),604,269,55.9,1.2,3.06,10,43.3,0.28
+Prunes (dried),605,219,48.6,0.3,2.31,5.2,36.5,0.01
+Rosehip w/o seeds (dried),606,328,68.4,1.4,3.7,12,61,0.02
+Rosehip soup powder (fortified),607,384,91.1,0.2,0.7,5,71,0.08
+Peach (dried),608,252,52.9,0.8,3.6,8.2,50.8,0.02
+Pears (dried),609,282,63.4,0.6,1.9,6,42.3,0.02
+Raisins,610,285,64.4,0.5,1.88,6.1,61.5,0.04
+Apple (dried),611,257,57.2,0.3,0.9,9.5,57.2,0.22
+Papaya (dried),613,263,57.6,0.6,3.4,5,52.2,0.04
+Pineapple (canned in juice),614,62,14.2,0.1,0.4,1,14.7,0
+Pineapple (canned in heavy syrup),617,86,20.2,0.1,0.4,1,20,0
+Apricot (canned in juice),618,52,11.4,0,0.6,1.6,8.3,0.01
+Apricot (canned in heavy syrup),619,118,27.7,0.1,0.5,1.3,18.5,0.01
+Cherries sour (canned in heavy syrup),624,94,21.5,0.1,0.7,1.5,20.2,0.02
+Peach (canned in heavy syrup),625,83,19.5,0.1,0.4,0.8,16.6,0.02
+Plum (canned in heavy syrup),626,94,21.8,0.1,0.4,1.5,19.1,0.05
+Pear (canned in light syrup),627,60,13.8,0,0.2,1.9,9.1,0.01
+Pear (canned in heavy syrup),628,77,17.6,0.1,0.2,1.9,15.9,0.01
+Apple (canned),629,69,14.9,0.5,0.2,1.8,15,0.01
+Grapefruit (canned in light syrup),630,63,14.6,0.1,0.6,0.4,15.5,0.01
+Mandarin (canned in light syrup),633,65,14.6,0.1,0.4,1.7,14.5,0.02
+Mango (canned in heavy syrup),634,99,23.3,0.1,0.3,1,20.2,0.01
+Orange juice (fresh),641,48,10.6,0.2,0.7,0.1,5.5,0
+Orange juice (RTD),643,39,8.6,0.1,0.7,0,8,0.01
+Lemon juice (fresh),645,29,6.5,0,0.56,0,1.2,0
+Lemon juice (conc. canned),646,32,6.8,0.3,0.4,0.1,1.5,0.05
+Small citrus fruits juice (fresh),647,44,9.9,0.2,0.5,0.1,5.5,0
+Grapefruit juice (fresh),649,39,8.8,0.1,0.5,0.4,7.2,0
+Lime juice (fresh),652,40,9.2,0.1,0.4,0.1,0.7,0
+Rice porridge,655,86,13.32,2.08,3.18,0.14,3.3,0.42
+Lime juice (conc. canned),657,28,6.2,0.2,0.2,0.1,0.7,0.04
+"Grape juice (RTD, canned)",658,63,14.6,0,0.6,0.5,14.1,0.01
+Apple juice (RTD),659,40,9.7,0,0.25,0,10.4,0.01
+"Pineapple juice (RTD, canned)",660,55,12.8,0.1,0.3,0.5,11.8,0
+"Orange juice (RTD, pasteurised)",661,43,9.8,0.1,0.6,0.1,8.4,0.01
+"Apricot nectar (RTD, pasteurised)",664,58,13.1,0.1,0.3,1.3,7.1,0
+"Peach nectar (RTD, pasteurised)",665,55,13,0,0.3,0.5,11.5,0.02
+"Orange nectar (RTD, unsweetened, pasteurised, fortified)",668,31,7.2,0,0.5,0,6.4,0
+"Prune beverage (RTD, canned)",670,70,15.5,0,0.6,2.2,13.2,0.01
+Graham porridge,676,61,11.2,0.46,1.85,2.09,0.1,0.63
+Oatmeal porridge (wholemeal),677,66,11.34,1.23,1.68,1.33,0.2,0.77
+Rye crushed grains wholegrain (steamed),680,323,61.1,1.5,9.2,12.7,2.4,0.01
+Barley flour porridge,681,63,11.94,0.55,1.7,1.4,0.2,0.68
+Semolina porridge,682,78,11.12,1.74,4.29,0.26,4.6,0.43
+Rye flour porridge,684,60,11.11,0.46,1.51,2.51,0.4,0.68
+Thick white sauce/Stew,685,100,8.29,5.45,4.33,0.15,5.5,1.39
+Oat gruel,695,78,12.74,1.47,2.84,0.84,9.3,0.69
+Semolina gruel,696,67,9.19,1.66,3.75,0.12,6.3,0.72
+"Gruel for adults (RTE, fortified )",699,64,8.6,1.7,3.3,0.4,4.5,0.24
+Oat drink/milk (fortified),700,42,7.1,1.1,0.35,0.8,3.2,0.1
+Rolled oats (wholegrain),702,375,64.1,6.98,9.5,7.5,1,0
+Steamed rolled oats w/ roasted wheat bran,703,371,60.5,7.3,9.97,10.5,1.2,0
+Oat bran,704,356,45,7,19,18,3.2,0.01
+Rolled barley wholegrain (steamed),705,351,65.4,3.1,9.2,10.7,0.9,0.03
+Corn flakes,706,380,82.5,0.88,8,2.5,9.3,1.75
+Wheat crushed grains wholegrain (steamed),707,328,60.98,2,10.2,11.32,0.5,0.01
+Wheat germs,708,349,31.4,9.4,27.5,14,16.4,0.01
+Wheat bran,709,294,30.4,5,16.6,30.5,3.1,0.01
+"Breakfast cereal (wholegrain, wheat)",710,366,68.4,2.52,11.29,10.5,5,0.75
+Coarse wheat bran,711,269,24.9,5,12.7,37.5,1.3,0.01
+Musli cereal mix,712,367,67.6,4.09,9.33,9.65,1.8,0.41
+"Breakfast cereal (sweetened, fortified)",713,385,86.3,1.16,5.42,1.2,9.4,1.13
+"Wheat bran (malt, roasted)",714,367,65.5,3.6,10.32,14,12.8,0.58
+"Breakfast cereal (wholegrain, oats)",715,394,68.9,6.44,10.35,7.8,11,1.25
+"Breakfast cereal (rice, sugar, cocoa powder)",716,393,85.2,2.64,4.62,2.38,35.8,0.75
+"Breakfast cereal (wholegrain, musli w/ fruit berries)",719,370,64.8,6.62,8.19,7.7,15.1,0.3
+"Breakfast cereal (wholegrain, musli w/ fruits nuts & sugar/honey)",721,369,70.6,3.8,8.04,8.17,29.1,0.44
+"Musli mix (sweetened, soya, gluten-free, w/ fruit)",723,368,73.2,3.66,7.46,4.34,22.6,0.55
+"Wheat bran (wholegrain, fortified)",724,364,66.8,2.76,9.89,14.7,22.9,1
+Breakfast cereal (wholegrain),725,384,78.9,2.17,9.04,3.7,11.2,1.13
+Wheat puffs (fortified w/ vits. iron),726,395,86.4,1.5,5.71,3.96,45.9,0.01
+"Corn flakes (sweetened, fortified)",727,388,87.5,0.92,5.25,1.75,26,1.38
+"Breakfast cereal (wholegrain, fortified w/ vits.)",728,379,75.5,3.2,7.72,6.8,36.3,1.75
+Pancakes (thin),731,186,25.9,5.8,6.51,1.3,6.2,0.64
+Poor knight,732,270,29.81,13.26,6.67,2.42,11.1,0.61
+"Pancakes (thin, skimmed milk, fried)",733,155,17.45,6.29,6.59,0.98,4,0.58
+"Pancakes (thick, skimmed milk, oven-baked)",734,150,15.19,7.04,6.04,0.85,3.5,0.52
+Pancake (thick),735,157,15.22,7.86,6.03,0.86,3.5,0.52
+Waffles (w/ egg),736,281,21.81,19.04,5.54,0.94,3.2,0.69
+Waffles rich crisp,737,322,21.42,24.84,3.34,0.99,1.7,0.13
+Pie crust (baked),752,445,38.04,30.3,4.58,1.88,0.9,1.5
+Pirogue dough w/o filling (baked),754,450,37.74,30.7,5.41,1.86,0.9,1.01
+Crumble pie crust (baked),755,481,52.19,27.78,4.68,2.23,15.6,0.44
+Pizza w/ tomato sauce & cheese,774,224,23.09,10.54,8.03,2.07,3.6,0.93
+Brown rice (boiled w/ salt),804,107,21.3,0.9,2.5,1.3,0.7,0.7
+Rice flour (white),810,347,75.32,1.42,5.95,2.4,0.3,0.01
+Rice diet flakes,811,371,80.9,1.1,7,2.1,0.3,0
+Wild rice (boiled),818,102,19.54,0.34,3.99,1.8,0.7,0.01
+Wine leaves stuffed w/ rice (canned),824,162,11.5,11.31,2.5,2.5,2,1.47
+Buckwheat whole/crushed grains,825,339,65.3,2,11.1,5.8,0.4,0
+Durra & other sorghum species wholegrain,826,364,69.8,3.3,11,3.2,0.3,0.01
+Millet whole/crushed grains,827,352,68.4,2.9,10.5,3.2,0.6,0.01
+Couscous (cooked),832,108,21.82,0.16,3.79,1.4,0.2,0.01
+"Barley grain (steamed, boiled w/ salt)",833,80,13.6,0.35,1.81,7.58,0,0.38
+Millet wholegrain (boiled),834,77,14.99,0.64,2.3,0.7,0.1,0.48
+Corn flour polenta (boiled),835,43,9.06,0.15,0.97,0.62,0.2,0.36
+Glorified rice,838,131,15.67,6.29,2.93,0.12,7.2,0.37
+Rice pudding,839,146,14.52,7.97,4.07,0.11,6.7,0.41
+Glorified rice (6% fat),840,154,20.8,6.37,2.78,1,12,0.14
+Glorified rice (1.5% fat),841,103,19.9,1.52,2.08,0,8.8,0.13
+Pasta (boiled),846,128,25.8,0.5,4.2,0.7,0.2,0
+Red beans (boiled),878,108,14.5,0.5,7.8,6.9,1.5,0.01
+White beans (boiled),880,108,14.2,0.6,7.8,7,1.5,0.02
+Chick peas (dried),881,352,51,4.8,20.5,10,4.6,0.07
+Mung beans (boiled),883,112,14.5,0.7,8.63,6.1,0.4,0
+Soya beans (boiled),888,128,5.8,5.7,11,5,2,0.01
+Cowpeas black-eyed beans (boiled),890,69,9.1,0.3,5.1,4.7,2.2,0.02
+"White beans (canned, baked in tomato sauce)",901,95,15,0.5,5.06,4.9,4.8,0.65
+Tofu soya bean curd,905,74,0,4.2,7.8,2.5,1.2,0.02
+Soya flour fat c 20% ,906,446,16,23.5,37,11.9,11.2,0
+Soya beverage,907,37,3.2,1.5,2.57,0,2.4,0.09
+Miso fermented soya bean paste,908,173,21,4.6,10.5,2.5,1.2,7.38
+Soya sauce,909,57,6.6,0,7.5,0,1.6,14.75
+Soya sauce (sweet),910,193,38.5,2.14,4.28,0,34.4,6.95
+Soya sausage (canned),911,199,3.5,15,12,2,1,0.01
+Soya ice cream (11% fat),912,216,27,11,2.25,0,20.6,0.22
+Soya bean patties (fried),915,179,15.58,9.04,7.24,3.35,1.6,1.74
+Soya sausage (fried),916,238,0.84,16.83,17.28,8.11,1.7,1.82
+Falafel/chickpea patties (deep fried),919,157,11.56,7.22,6.74,10.13,1.2,1.94
+Lamb shoulder brisket,920,134,0,5.9,20.13,0,0,0.2
+Lamb shank ,922,137,0,4.2,24.5,0,0,0.17
+Lamb brisket (thin),926,184,0,12.6,17.8,0,0,0.17
+Lamb chop (fat removed),927,103,0,2.5,20,0,0,0.17
+Hare meat,928,115,0,3.1,21.5,0,0,0.19
+Fallow deer shoulder,930,106,0,1.6,22.5,0,0,0.19
+Fallow deer steak,931,101,0,1,22,0,0,0.18
+Venison sirloin,932,102,0,1.2,22.6,0,0,0.17
+Veal shoulder,934,106,0,2.8,19.9,0,0,0.14
+Veal brisket ,935,186,0,12.7,18.1,0,0,0.18
+Veal fillet,936,105,0,2.7,20,0,0,0.14
+Veal knuckle ,937,108,0,3.1,19.9,0,0,0.14
+Veal top round,938,107,0,2.5,21,0,0,0.14
+Veal shank,940,98,0,1.9,20,0,0,0.14
+Veal outside,941,117,0,3.5,21.2,0,0,0.14
+Veal thin flank,942,173,0,11,18.7,0,0,0.18
+Veal chuck,943,135,0,6.4,19.2,0,0,0.17
+Rabbit meat,944,125,0,4,22,0,0,0.14
+Beef sirloin (w/ bone),945,162,0,9.3,19.7,0,0,0.14
+Beef sirloin,946,123,0,3.85,21.8,0,0,0.15
+Beef brisket,947,205,0,15.1,17.6,0,0,0.18
+Beef brisket (cured),948,205,0,15.1,17.6,0,0,3.25
+Beef fillet,949,124,0,4.1,21.69,0,0,0.18
+Beef knuckle,950,116,0,3.5,20.8,0,0,0.16
+Beef mince (10% fat),951,182,0,11.34,20.13,0,0,0.22
+Beef chuck roll (trimmed),953,145,0,6.9,20.59,0,0,0.17
+Beef top round steak,954,114,0,1.6,23.81,0,0,0.14
+Beef shank,955,108,0,2.8,20.5,0,0,0.17
+Beef shoulder clod,956,118,0,3.7,21,0,0,0.17
+Beef eye round (cured),958,103,0,1.8,21.5,0,0,0.15
+Beef outside,959,111,0,2.8,21.3,0,0,0.14
+Beef meat (cubed for casserole or stew raw),961,145,0,6.9,20.59,0,0,0.17
+Beef steak (recombined),962,159,0,8.8,20,0,0,0.14
+Beef mince (15% fat),963,211,0,15,19.38,0,0,0.21
+Reindeer steak,965,108,0,1.8,22.63,0,0,0.18
+Reindeer shoulder,966,109,0,1.6,23.31,0,0,0.18
+Roe deer meat,968,108,0,1.25,23.97,0,0,0.17
+Pork chops w/ fat edge (5 mm),971,185,0,12,19.4,0,0,0.16
+Pork feet/trotters,973,207,0,12.6,23.5,0,0,0.16
+Ham in brine raw (3% fat),974,108,0,3,20.1,0,0,3
+Pork bones w/ meat,975,193,0,13.7,17.7,0,0,0.14
+Pork picninc shoulder,976,121,0,4.7,19.5,0,0,0.19
+Pork meat (cubed for casserole or stew raw),977,164,0,9.7,19.3,0,0,0.11
+Pork mince (20% fat),980,242,0,20,16,0,0,0.14
+Pork shoulder blade (roasted),981,137,0,7,18.5,0,0,0.16
+Pork chops,982,103,0,1.7,21.6,0,0,0.13
+Pork chops w/ fat edge (2 mm),983,134,0,6,20,0,0,0.19
+Pork shank,984,126,0,5.2,19.7,0,0,0.19
+Pork belly w/ rind (whole),985,268,0,22.4,17.2,0,0,0.15
+Pork belly w/ rind (sliced),986,252,0,20.7,17.1,0,0,0.15
+Pork ham slice (w/ rind),987,191,0,13,18.8,0,0,0.16
+Pork ham inside,988,100,0,1.8,20.8,0,0,0.17
+Pork ham knuckle,989,101,0,2.3,19.8,0,0,0.17
+Pork ham outside,990,123,0,4.9,19.7,0,0,0.17
+"Pork belly w/ rind (cured, sliced)",991,353,0,34.6,11.6,0,0,3
+Pork mince (8% fat),992,144,0,8,18,0,0,0.17
+Beef tail (trimmed),996,171,0,10.1,20,0,0,0.28
+Pig rind,997,277,0,20.5,23.5,0,0,0.03
+Horse meat (smoked),998,100,0,1.7,21,0,0,4.38
+"Beef meat (cured, boiled)",999,110,0,2.1,22.5,0,0,2.05
+Beef meat (smoked),1000,106,0,2.8,20,0,0,4.38
+Reindeer meat (smoked),1001,123,0.1,3.2,23.13,0,0,3
+Reindeer meat (dried),1002,330,3,17.6,40,0,0,3
+ Pork bacon (fried),1004,412,0,38.8,17,0,0.1,2.44
+"Pork shoulder (canned, aspic-gelly 6-8%)",1005,116,0.2,5.4,16.6,0,0,2.25
+Pork loin (smoked),1006,106,0.5,2.2,20.7,0,0,4.31
+"Pork ham (canned, aspic-gelly 8-11%)",1007,101,0,3,18.3,0,0,2.25
+Prosciutto Italian ham (dry-cured),1008,245,1.5,12.38,31.94,0,0,4.6
+Smoked ham (6% fat),1009,138,0,6,21,0,0.8,3.6
+"Smoked ham (1-3% fat, sliced)",1010,99,1.3,2.2,18.36,0,0.8,3.75
+Pork belly (smoked),1011,394,0,37.5,15.4,0,0.1,2.05
+Corned beef (canned),1012,218,0.4,12.1,27,0,0,2.38
+Beef flank (thin),1013,134,0,5.1,22,0,0,0.15
+Beef steak sirloin (fried),1014,144,0,4.5,25.46,0,0,0.48
+Beef cube roll (fried),1017,165,0,7.09,25.19,0,0,0.5
+Pork shoulder (fried),1018,163,0,8.33,22.01,0,0,0.39
+Pork meat (boiled),1019,182,0,10.23,22.63,0,0,0.67
+Pork bones w/ meat (boiled),1022,225,0,15.94,20.59,0,0,1.13
+Pork fillet slice (fried),1023,128,0,3.11,24.64,0,0,0.4
+Pork collar/chap (fried),1024,202,0,13.2,20.99,0,0,0.42
+Pork chop/loin (fried),1025,217,0,14.06,22.73,0,0,0.44
+Pork hock (boiled),1027,149,0,6.15,23.3,0,0,1.21
+Pork meat (grilled),1028,183,0,10.25,22.68,0,0,0.43
+Pork rolls,1029,246,0,19.03,19.2,0,0,3.75
+Pig feet/trotters (boiled),1030,238,0,14.49,27.03,0,0,1.14
+Hare roast,1031,141,0,3.8,26.39,0,0,0.44
+Veal tenderloin (fried),1032,123,0,3.17,23.52,0,0,0.48
+Veal chops (fried),1033,143,0,5.15,23.98,0,0,0.51
+Veal meat (boiled),1034,186,0,9.85,24.14,0,0,0.68
+Veal roast (roasted),1035,126,0,2.93,24.65,0,0,0.47
+Lamb chops (fried),1036,234,0,16.07,22.05,0,0,0.46
+Lamb leg roast (roasted),1037,123,0,2.39,24,0,0,0.42
+Beef chuck (boiled),1038,184,0,8.76,26.13,0,0,0.68
+Beef roast/pot roast (boiled),1039,149,0,4.49,26.67,0,0,0.68
+"Beef brisket (cured, boiled)",1042,252,0,18.57,21.65,0,0,4
+Beef rolls (fried),1043,138,0.9,3.81,24.35,0.11,0.3,0.72
+Beef rump/loin end (roasted),1044,146,0,3.73,26.43,0,0,0.49
+Spare ribs pork (barbecued),1045,294,2.18,24.43,16.89,0,1.9,0.68
+Venison meat (roasted),1047,132,0,1.53,29.37,0,0,0.42
+Reindeer meat (boiled),1048,133,0,2.08,28.28,0,0,0.67
+Reindeer meat (braised),1049,132,0,2.21,27.74,0,0,0.43
+Moose steak (roasted),1050,132,1.84,1.61,27.07,0,0,0.4
+Pork collar/chap (roasted),1055,224,0,17.1,18,0,0,0.14
+"Pork ham (roasted)",1056,164,0,6.4,26.5,0,0,1.19
+Beef steak (roasted),1057,135,0,3.6,25.5,0,0,1.19
+Beef rump (roasted),1058,124,0,3,24,0,0,0.17
+"Pork spare ribs (grilled, roasted)",1059,283,0,23.7,18,0,0,0.2
+"Pork belly (cured, breaded, fried)",1064,371,8.34,31.59,14.06,0.52,0.4,4.52
+"Pork chops (breaded, fried)",1065,265,7.23,17.77,19.1,0.45,0.3,1.4
+Pork schnitzel (fried),1066,200,7.35,9.95,20.04,0.46,0.3,1.43
+Reindeer thin slices (fried w/ cooking fat),1080,212,0.03,13.65,22.36,0,0,1.39
+"Beef soup (canned, cooked w/ water)",1096,16,0.98,0.35,1.5,1.4,0.9,1.08
+"Chicken burger (7% fat)",1099,168,11,7,15,0,0.5,1.53
+"Chicken meatballs (12% fat)",1100,224,13,12,16,0,1.7,1.75
+Soya & wheat protein burger (grilled),1104,172,6.7,7.7,16.27,5.3,1.6,1.66
+Meat loaf (baked),1107,142,4,7.7,14,0.3,1,1.14
+Pork minced patties (fried),1109,191,4.75,12.48,14.91,0.31,1.1,1.83
+"Hamburger (10% fat, fried)",1110,225,0,13.98,25.06,0,0,1.21
+"Hamburger (17% fat, fried)",1111,251,0,17.5,23.8,0,0,1.18
+Minced meat rolls (fried),1112,183,5.2,11.9,13.75,0.69,0.8,1.31
+Veal quenelles,1113,152,4.83,6.88,17.54,0.23,1.6,1.55
+Veal mince patties (fried),1114,256,7.41,17.87,16.46,0.43,1.3,1.45
+Meat sauce (beef),1115,115,4.65,6.36,9.26,1.03,3.5,1.86
+Beef meatballs (fried),1119,170,4.23,9.53,16.61,0.35,0.9,1.79
+Pork meatballs (fried),1120,187,6.23,11.75,14.02,0.29,1,1.42
+Meat sauce (pork),1121,122,4.65,7.73,8.02,1.03,3.5,1.83
+Minced lamb patties (fried),1125,217,4.67,15.23,14.95,0.31,1.1,1.85
+Meat loaf (pork),1126,183,4.55,11.96,14.29,0.3,1,1.75
+Meat loaf (beef),1127,177,4.55,10.72,15.42,0.3,1,1.78
+Beef patties (fried),1128,177,4.75,9.88,17.26,0.31,1.1,1.89
+Meat patties (fried),1129,184,4.75,11.18,16.08,0.31,1.1,1.86
+Moose mince patties (fried),1131,113,4.45,2.47,17.87,0.29,1,1.71
+Meat sauce (moose mince),1132,82,4.49,2.45,9.87,1,3.4,1.77
+"Meatballs (15% fat, fried)",1143,215,7.4,14.9,13,0.3,1.4,1.88
+Meat sauce (canned),1145,101,5.7,5.8,6.1,1.1,2.5,1.55
+Duck breast,1151,119,0,4.3,19.9,0,0,0.14
+Duck meat w/ skin,1153,396,0,39.5,11.5,0,0,0.16
+Pigeon (roasted),1154,137,0,7.5,17.5,0,0,0.23
+Turkey fillet,1162,106,0,0.9,24.13,0,0,0.24
+Chicken meat,1164,115,0,3.1,21.5,0,0,0.19
+Chicken whole leg w/ skin,1167,196,0,13.5,18.9,0,0,0.19
+Chicken wing w/ skin,1168,186,0,12.2,19.2,0,0,0.18
+Ptarmigan (roasted),1169,113,0,2,23.5,0,0,0.09
+Chicken drumstick meat w/ skin,1171,198,0,13.5,19.27,0,0,0.21
+Chicken leg,1174,114,0,3.9,19.6,0,0,0.22
+Ostrich fillet (fried),1177,170,0.6,5.11,30,0,0.6,0.19
+Turkey (boiled),1178,139,0,5.6,22,0,0,1.45
+Pigeon w/ skin (roasted),1180,344,0,28.74,22.15,0,0,0.69
+Chicken (boiled),1181,171,0,4.62,32.03,0,0,1.17
+Chicken meat w/ skin (fried),1182,214,0,13.82,22.61,0,0,0.98
+Pheasant (roasted),1183,189,0,8.1,28.9,0,0,0.55
+Goose (roasted),1184,324,0,24.67,25.95,0,0,0.43
+Hen (boiled),1185,206,0,9.22,30.74,0,0,0.84
+Turkey meat w/ skin (roasted),1186,161,0,5.87,26.81,0,0,0.67
+Chicken breast w/ skin (fried),1188,187,0,8.7,27.1,0,0,0.64
+"Chicken hen (boiled, grilled, fried)",1190,168,0,7.75,24.56,0,0.3,0.77
+Turkey (smoked),1191,133,0,4,24,0,0,2.13
+Chicken w/ breading (deep fried),1193,310,5.8,21.9,22.5,0.7,0,1.35
+Common bream,1200,103,0,4,16.7,0,0,0.11
+Rainbow trout,1201,160,0,9.6,18.6,0,0,0.13
+Saithe,1202,82,0,0.5,19.13,0,0,0.17
+Halibut,1203,139,0,8.55,15.5,0,0,0.19
+Chicken (deep-fried),1207,221,14.2,10.44,16.75,1.4,0.1,1.19
+Veal stock,1210,222,18.5,8,18.75,0,4.5,46.83
+Veal stock (low salt),1211,292,35,5.5,25,0,4.5,28.75
+Beef stock,1212,201,23.36,5,15.25,0,11,48.81
+Beef stock (low salt),1213,239,39,4.5,10,0,11,40.5
+Ham stock,1214,249,13.5,13,19.5,0,3,48.38
+Chicken stock (low salt),1215,320,32,15,14,0,3.5,34.75
+Chicken stock,1216,238,16.2,12.7,14.7,0,3.5,52
+Beef stock powder/cube,1217,128,5,3,20,0,11,60
+"Beef stock (canned, RTE)",1218,7,0,0.2,1.2,0,0.2,0.46
+Gelatine leaf/powder,1219,350,0,0.1,86,0,0,0.08
+Beef stock broth (RTE),1222,4,0.46,0.1,0.3,0,0.2,0.97
+Beef stock (RTE),1223,8,1.2,0.2,0.4,0,0.2,0.56
+Chicken stock (RTE),1224,5,0.2,0.3,0.3,0,0,0.78
+Egg (raw),1225,137,0.4,9.73,12.25,0,0.4,0.36
+Egg yolk (raw),1226,319,0.6,28.6,15.63,0,0.6,0.16
+Egg white,1227,41,0,0,10.1,0,0.4,0.38
+Soufflé plain (baked),1231,170,5.99,11.31,11.15,0.16,2.5,0.94
+Egg (fried),1233,193,0.44,15.52,13.31,0,0.4,0.42
+Haddock,1237,79,0,0,19.38,0,0,0.11
+Hake,1238,71,0,0.4,16.5,0,0,0.19
+Vendace,1240,135,0,6.5,19,0,0,0.14
+Herring,1241,148,0,9,16.72,0,0,0.5
+Flounder,1242,94,0,2.2,18.3,0,0,0.16
+Baltic herring,1243,108,0,4,17.97,0,0,0.16
+Arctic char,1244,152,0,7.94,19.94,0,0,0.12
+Cod,1246,78,0,0.5,18.19,0,0,0.15
+Whiting,1247,80,0,0.6,18.3,0,0,0.13
+Eel,1248,351,0,33,14.6,0,0,0.13
+Brown trout (farmed),1249,166,0,10,19,0,0,0.12
+Pink salmon,1250,105,0,2,21.44,0,0,0.12
+Turbot,1251,83,0,1.7,16.7,0,0,0.29
+"Whitefish (drawn, smoked)",1252,132,0,4.97,21.8,0,0,2.73
+Perch,1253,86,0,0.61,19.81,0,0,0.08
+Salmon (Nowegian fjords),1255,210,0.7,14.13,20.21,0,0,0.09
+Sea trout (Swedish rivers),1256,115,0,2.9,22,0,0,0.07
+Burbot,1257,71,0,0.45,16.51,0,0,0.18
+Plaice,1258,91,0,0.61,21.13,0,0,0.25
+Whitefish,1259,90,0,0.64,20.88,0,0,0.1
+Mackerel,1260,298,0,25,17,0,0,0.11
+Rainbow trout (farmed),1261,106,0.4,3.46,18.13,0,0,0.11
+Pike,1262,84,0,0.23,20.25,0,0,0.11
+Pike-perch,1263,84,0,0.21,20.17,0,0,0.11
+Sprats (canned),1265,215,11.8,13.1,12.5,0,2.9,6.88
+Baltic herring (whole smoked),1266,199,0,12.8,21.2,0,0,2.11
+"Salmon side (cold, smoked)",1269,173,1.3,9.78,20,0,0,2.75
+Anchovy sardelles (canned),1270,170,0.3,10.3,19.2,0,0,6.85
+Sardines in oil (canned),1271,284,0,21.1,24,0,0,1.28
+"Sardines (canned, in tomato sauce)",1272,217,0.6,14.8,20.5,0,0.7,1.15
+Herring (salted),1273,245,0,19,19,0,0,14.75
+Baltic herring (salted),1274,162,0,7.5,23.5,0,0,14.75
+"Tuna (canned in oil, drained)",1275,189,0,9.87,24.94,0,0,1.02
+"Eel (drawn, smoked)",1277,347,0,30.5,19.1,0,0,1.46
+"Tuna (canned in water, drained)",1278,106,0,0.95,24.06,0,0,0.96
+"Mackerel (drawn, smoked)",1279,296,0,24.5,19.4,0,0,1.43
+Soused herring (canned),1281,314,12.1,22.6,16,0,12.1,6.25
+Angler fish,1282,65,0,0.1,15.8,0,0,0.21
+Mackerel (canned),1283,324,0,28,18.9,0,0,0.65
+"Herring (salted, RTE)",1284,208,0,16,16.5,0,0,2.4
+Gravlax,1285,166,3.1,8.72,18.75,0,1.3,2.88
+Salmon (lightly salted),1286,148,0,8.1,18.8,0,1.5,4.4
+"Buckling (butterfly filleted, smoked)",1287,261,0,20.8,19,0,0,1.46
+"Salmon (drawn, smoked)",1288,220,0.1,14.8,21.88,0,0,1.61
+Mackerel fillet (smoked),1289,327,0,27.7,20.1,0,0,2.01
+Rainbow trout side (cold smoked),1290,190,0,12.1,20.4,0,0,2.9
+"Rainbow trout (drawn, smoked)",1291,157,0,7.68,21.9,0,0,2.19
+"Arctic char (drawn, smoked)",1292,163,0,8.61,21.4,0,0,2.06
+"Eel (butterfly filleted, smoked)",1293,428,0,40.2,17.8,0,0,3.15
+"Fish fingers (breaded, fried)",1294,223,16.8,12.11,11.69,0,1.2,1.13
+"Mackerel fillets (canned, in tomato sauce)",1296,186,3.9,13.9,11.69,0,3.2,0.92
+Baltic herring (fermented),1297,82,0,3.89,11.75,0,0,8.81
+Stockfish ling treated w/ lye (boiled),1298,28,0,0.5,5.88,0,0,0.08
+"Herring (salted, coated, fried)",1299,289,4,24.2,14.1,0.9,0.2,3.05
+"Baltic herring (coated, fried)",1300,249,4.1,19.2,15.2,0.3,0,1.3
+"Cod fillet (coated, fried)",1301,143,4.5,6,17.6,0.3,0.1,1.55
+Eel (poached),1302,382,0,36,15.8,0,0,0.47
+Eel (baked),1303,437,3.2,40.5,16.1,0,0,1.23
+Perch (poached),1304,140,0,0.99,32.3,0,0,1.14
+"Perch fillets (breaded, fried)",1305,193,6.58,8.53,22.24,0.38,0.3,1.49
+Rainbow trout (poached),1308,191,0,11.45,22.19,0,0,1.07
+Rainbow trout (breaded fried),1309,228,5.96,14.3,19.04,0.34,0.2,1.4
+Pike (poached),1310,137,0,0.37,32.94,0,0,1.18
+"Pike (breaded, oven fried)",1311,191,6.57,8.13,22.66,0.38,0.3,1.52
+Halibut (poached),1312,168,0,10.35,18.76,0,0,0.98
+"Halibut (breaded, fried)",1313,212,6.01,13.61,16.27,0.34,0.2,1.47
+Haddock (poached),1314,130,0,0,31.92,0,0,1.2
+"Haddock (breaded, fried)",1315,187,6.61,7.94,21.89,0.38,0.3,1.53
+Salmon (fried),1316,221,0.84,13.51,24.16,0,0,0.71
+Salmon (poached),1317,246,0.82,16.56,23.69,0,0,0.83
+Mackerel (poached),1318,341,0,28.6,19.45,0,0,0.83
+"Mackerel (breaded, fried)",1319,330,5.94,25.66,17.5,0.34,0.2,1.38
+Mackerel (fried),1320,304,0,23.98,20.38,0,0,0.74
+Turbot (poached),1321,137,0,2.81,27.64,0,0,1.5
+Plaice fillets (poached),1322,147,0,0.98,34.03,0,0,1.4
+"Plaice fillets (breaded, fried)",1323,197,6.54,8.48,23.46,0.38,0.3,1.66
+Plaice fillets (fried),1324,124,0,0.83,28.74,0,0,1.03
+Whitefish (poached),1325,145,0,1.03,33.67,0,0,1.16
+Whitefish breaded (fried),1326,196,6.55,8.52,23.22,0.38,0.3,1.51
+"Herring (salted, poached)",1327,246,0,18.96,19.55,0,0,2.84
+"Herring (breaded, fried)",1328,216,6.17,13.46,17.41,0.78,0.2,2.85
+Baltic herring (poached),1329,131,0,4.85,21.79,0,0,0.94
+"Baltic herring (breaded, fried, pickled)",1331,220,8.44,15.24,12.2,0.48,4.3,1.49
+Baltic herring (fried),1333,122,0,3.85,21.64,0,0,0.8
+Tuna (fried),1334,154,0,4.67,27.74,0,0,0.72
+Cod fillet (poached),1335,130,0,0.83,30.25,0,0,1.28
+"Cod (breaded, fried)",1336,187,6.63,8.49,20.76,0.38,0.3,1.58
+Cod fillets (fried),1337,109,0,0.69,25.21,0,0,0.91
+Whiting (poached),1338,132,0,0.99,30.16,0,0,1.23
+"Whiting fillets (breaded, fried)",1339,188,6.61,8.56,20.79,0.38,0.3,1.55
+Fish balls (canned),1344,72,5.8,2.29,6.88,0,0.3,1.26
+Fish balls w/ lobster sauce (canned),1345,88,7.4,4.35,4.81,0,0.6,1.23
+Salmon paste spread (lightly smoked),1346,355,10,30,12,0,3.6,5
+Herring paste spread (smoked),1347,364,9,31,13,0,2.1,5
+"Fish balls (canned, breaded, fried)",1351,162,11.74,10.25,5.7,0.31,0.7,2.21
+Fish mince (poached),1357,117,8.52,1.96,15.88,0.21,2.4,1.52
+"Herring patties (salted, fried)",1361,192,13.81,10.86,8.97,1.62,1.4,0.85
+Sushi w/ salmon,1363,353,60.66,6.06,12.52,1.01,3.3,1.48
+Sushi w/ halibut,1364,338,64.56,3.57,10.36,1.08,3.5,1.61
+Sushi w/ tuna,1365,361,72.01,2.02,11.87,1.21,3.9,1.75
+Sushi roll w/ crabstick & cucumber,1366,352,76.65,0.8,7.81,0.98,4.1,1.97
+Cod roe,1376,120,0,2.3,24.5,0,0,0.33
+Fish roe paste spread (unsmoked),1377,187,23.6,3.3,15.3,0,10,7.88
+Fish roe paste spread (smoked),1378,414,15.2,35.8,8.75,0,12,4.9
+Fish roe paste spread (low fat),1379,270,23,15.79,9,0,12.6,10.53
+Lumpfish roe (salted),1381,84,2.5,3.44,10.63,0,0,4.45
+Cisco roe (salted),1382,126,1.5,2.3,24.5,0,0,4.25
+Squid,1384,75,0,0.9,16.4,0,0,0.91
+"Blue mussel (boiled, drained)",1385,113,2.3,3.26,18.5,0,0.1,0.68
+Oysters,1386,56,0,2,9.5,0,0,0.18
+Snails,1387,87,2.2,1.4,16.1,0,0,0.18
+Frog legs,1388,69,0,0.3,16.4,0,0,0.14
+"Mussels (canned, whole contents)",1389,51,3.1,0.7,7.9,0,0,0.98
+"Mussels (canned, drained)",1390,108,4.7,2.27,16.88,0,0,1.28
+"Oysters (canned, whole contents)",1391,58,0,2.2,9.5,0,0,0.28
+Crab blue (boiled),1392,83,0,1.1,18,0,0,0.73
+Lobster (boiled),1393,86,0,1.9,16.9,0,0,0.68
+Crayfish freshwater (boiled),1394,71,0.7,0.82,15.63,0,0.2,2.23
+Shrimps (boiled),1395,77,0,0.64,17.63,0,0,1.58
+Lobster (canned),1396,90,0.1,1.5,18.7,0,0,0.83
+Crab (boiled),1397,87,0,1.9,17.3,0,0,0.53
+Crab (canned),1398,98,1.3,2.5,17.4,0,0,1.38
+"Shrimps (canned, whole contents)",1399,77,1,0.8,16.2,0,0,2.45
+"Shrimps (canned, drained)",1400,73,1.2,0.26,16.25,0,0,2.53
+Crayfish (canned/boiled),1402,94,1.1,1.9,18,0,0,0.89
+Shrimps (deep fried),1404,287,27.8,14.8,10.6,0.2,1,1.63
+Squid (deep fried),1407,292,15.2,17.4,18.6,0.2,1,1.43
+Fish stock powder,1419,216,17.53,4.88,25,0,5,46.5
+Fish stock powder (low salt),1420,267,23,3.5,35,0,5,34.25
+Fish stock (RTE),1422,4,0.3,0.2,0.3,0,0.1,0.74
+Pig blood,1423,73,0.4,0.4,16.6,0,0.1,0.51
+Beef blood,1424,70,0,0.4,16.4,0,0.1,0.83
+Blood bread crisp bread (wholemeal),1425,366,65.5,1.9,17.7,6,0.6,0.4
+Black pudding/sausage (19% fat),1426,301,21,19,10.6,2.3,12.4,0.88
+Blood dumplings,1427,170,21.9,4.2,8.6,4.7,14.1,0.88
+Black pudding/sausage (14% fat),1428,254,20,14,11,2.3,10.9,1
+Blood bread,1429,286,47.8,2.8,14.4,4.7,28.2,0.88
+"Black pudding (10% fat, fried)",1430,202,17.3,9,12,2,11.7,1
+"Black pudding (13% fat, fried)",1431,261,20.52,14.37,11.29,2.36,11.2,1.03
+"Black pudding (8% fat, fried)",1432,208,17.82,9.27,12.36,2.06,12.1,1.03
+Blood bread (boiled),1433,103,18.85,0,5.68,1.85,11.1,0.48
+Lamb sweetbread,1434,131,0,7.8,15.3,0,0,0.19
+Lamb heart,1435,119,0,5.6,17.1,0,0,0.35
+Lamb liver,1436,149,3.2,5.3,22,0,0,0.19
+Lamb kidney,1437,96,0,3.4,16.2,0,0,0.48
+Lamb tongue ,1438,191,0,14.6,15.3,0,0,0.24
+Calf sweetbread ,1439,96,0,3.1,16.9,0,0,0.19
+Calf liver,1441,119,2.8,3.3,19.4,0,0,0.19
+Calf kidney ,1442,116,0.7,5.8,15.3,0,0,0.28
+Calf tongue,1443,152,0,9.8,16.2,0,0,0.23
+Beef & veal heart,1444,138,0,8,16.6,0,0,0.24
+Beef kidney,1446,113,0.9,5.1,15.8,0,0,0.49
+Beef tongue,1447,176,0,12.4,16.2,0,0,0.24
+Pig heart,1448,119,0,5.9,16.5,0,0,0.27
+Pig liver,1449,132,3,3.4,22,0,0,0.22
+Pig kidney,1450,103,0.3,3.8,16.7,0,0,0.4
+Pig tongue,1451,167,0.4,11.1,16.5,0,0,0.27
+Chicken heart,1452,147,0.3,9.3,15.6,0,0,0.16
+Chicken gizzard,1454,111,0,4.2,18.2,0,0,0.17
+Reindeer liver,1455,129,1.8,3.7,22,0,0,0.19
+Beef tongue (cured),1456,220,0.4,17.5,15.7,0,0.5,3.03
+Chicken liver (fried),1457,149,0.91,4.93,25.15,0,0,0.63
+"Beef liver (breaded, fried)",1458,211,11.83,7.76,22.81,0.4,0.2,0.65
+Beef liver (fried),1459,162,5.62,3.96,25.54,0,0,0.67
+"Beef tongue (cured, boiled)",1460,292,0,24,19.5,0,0.5,2.5
+"Goose liver paste/paté (smoked, canned)",1470,454,4.6,44,11.4,0,0,2.2
+Liver dumplings,1471,225,22.8,9.9,9.9,2.3,0,0.98
+Kidney dumplings,1472,153,24.6,1.7,8.3,2.3,0,0.98
+Liver paste/paté (24% fat),1474,292,9,24.5,9.52,0,3.8,2.04
+Liver paste/paté (14% fat),1476,212,9.8,14,12,0,3.8,1.5
+Liver paste/paté (10% fat),1477,183,13.5,9,12,0,2.1,1.5
+Liver paste/paté (3-3.5% fat),1478,132,12.9,3.6,10.56,2.7,5.3,2.23
+Liver patties (fried),1479,146,8.9,6.4,12.8,0.7,0.3,1.04
+Chicken sausage (9% fat),1485,155,6.5,9.08,11.5,1,0.9,1.69
+"Chicken sausage (15% fat, halal)",1486,203,3.5,15.46,12.25,1,0,1.58
+Sausage (19% fat 58% meat),1487,254,7.9,19.3,12.7,0,0.4,2
+Sausage (58% meat),1488,259,3.7,23,9.9,0,0.4,2
+"Sausage (48% meat, boiled)",1491,234,3.8,20.5,9.1,0,0,2.08
+Sausage (52% meat),1492,257,3.2,23,9.9,0,0,1.98
+"Mettwurst sausage (23% fat, boiled)",1496,256,4.1,22.5,9.9,0,3.3,1.93
+"Mettwurst sausage (35% fat, smoked)",1497,386,5.4,34.6,14.23,0,3.3,3.1
+"Salami sausage (34-44% fat, smoked)",1498,430,0.2,41.2,16.08,0,1.4,3.05
+Sausage (51-54% meat),1500,274,8.5,21.5,12.1,0,1.4,2.13
+"Sausage (54% meat, boiled)",1501,273,7.8,22.6,9.86,0.8,1.4,1.92
+Wiener sausage (23% fat),1503,259,3.9,23,9.8,0,1.4,1.95
+Sausage (32-35% meat),1508,215,9.2,15,11,0,1.2,2
+"Sausage (58% meat, fermented)",1509,278,4.6,24,11,1,1.5,0.8
+"Sausage (52% meat, low-fat)",1511,189,5.7,14.4,9.5,0,1.2,1.95
+Wiener sausage (15% fat),1512,196,5.7,15,10,0,1.2,2
+"Sausage (73% meat, fried)",1513,286,4.1,23.83,14.3,0,0.5,2.69
+"Sausage (80% meat,fried)",1514,372,1.2,32.98,18.37,0.66,1.1,3.16
+Sausage (61% meat),1516,268,3.8,24,10,0,0,1.9
+Sausage (73% meat),1518,270,4.7,18.31,21.81,0,0,2.7
+Sausage (45% meat),1521,231,8.9,19.1,6.1,0.5,0.3,1.8
+Lean bacon (fried),1523,142,1.37,3.14,26.63,0,1.1,4.55
+"Sausage (24% fat, boiled)",1526,272,3.39,24.35,10.48,0,0,2.1
+"Sausage (lean, fried)",1527,268,8.33,20.34,13.39,0,0.4,2.11
+"Sausage (sliced, boiled)",1528,274,3.91,24.34,10.48,0,0.4,2.12
+Sausage (fried),1530,272,3.39,24.35,10.48,0,0,2.1
+"Sausage (59% meat, fermented, fried)",1531,293,4.85,25.3,11.6,1.05,1.6,0.84
+Sausage hot dogs (boiled),1534,288,8.94,22.62,12.73,0,1.5,2.24
+Sausage hot dogs (fried),1535,288,8.94,22.62,12.73,0,1.5,2.24
+Wiener sausage (fried),1536,274,4.13,24.34,10.37,0,1.5,2.06
+Wiener sausage (boiled),1540,274,4.13,24.34,10.37,0,1.5,2.06
+Cashew nuts,1557,597,19.2,48.67,18,8.3,5.9,0.04
+Hazelnuts,1558,658,0.5,64.6,13.25,16.1,3.6,0
+Peanut butter,1559,615,14.3,51,22.6,7.6,15.2,1.18
+Peanuts (dried),1560,586,8.2,49,25.7,8.1,4.2,0.04
+"Peanuts (roasted, salted)",1562,605,9.3,51.3,22.39,11.6,4.6,1.9
+Chestnuts,1563,201,39,2.2,2.4,6.8,7,0.01
+Shredded coconut (dried),1564,690,13.1,67.2,6.25,9.18,5.4,0.06
+Coconut,1565,352,6.1,33.5,3.4,9,4.8,0.05
+Coconut milk (low fat),1566,80,3,7.08,0.56,1.3,0.8,0.08
+Linseeds (whole),1567,522,0,43.8,18.74,30.4,1.6,0.08
+Brazil nuts,1568,683,0,67.8,14.2,13.7,1.8,0
+Pecan nuts,1569,714,1.5,73.3,8.48,13.3,4,0
+Pistachio nuts,1570,606,21.7,48.5,20.5,3,6.8,0.02
+Pumpkin seeds,1571,573,2.4,48,29.76,9.2,1.4,0.02
+Sesame seeds w/ husk,1572,606,4.4,54.8,19.93,12.01,0.6,0
+Sesame seeds,1573,644,2.7,59.7,20.86,10.4,1,0.07
+Sunflower seeds,1574,618,3.9,56.1,20.61,11.5,2.9,0
+Almonds sweet,1575,592,0.5,53.2,20.67,18.7,3.6,0
+Walnuts,1576,592,0.5,53.2,20.67,18.7,3.6,0
+Chestnuts (roasted),1577,230,45,2.2,3.2,7.9,7,0.01
+"Chickpea snacks (salted, dried)",1579,376,47.8,6.55,23.31,15.5,2.6,0.3
+Peanut doodles/rings,1580,533,44.2,35,5.6,11,9.6,0.4
+Corn crisps,1581,461,63.6,17.9,7.1,7.9,1.3,0.7
+Cheese-flavored doodles/puffs,1582,526,53.7,30,9.8,1.3,2.5,0.4
+Popcorn (popped),1583,414,55,14.5,10.1,11,1.4,0.4
+Potato crisps,1584,523,52.4,31.5,5.2,5.5,0.5,1.14
+Salted sticks,1585,384,68.2,6.3,10.5,4.3,7.1,4.5
+Popcorn microwave (22% fat),1586,450,42.9,22.13,9.35,21.9,0.4,1.35
+"Potato crisps (34% fat, flavoured)",1587,526,51.3,32.22,5.42,5.7,2.1,1.35
+Potato crisps (25% fat),1588,495,63,24.31,4.06,3.8,0.6,1.02
+Japanese style rice crackers w/ nuts,1589,403,75.5,5.64,9.43,4.4,6.8,0.91
+Coconut milk,1590,239,3.5,24,2.3,1.5,1.5,0.04
+Coconut water,1591,18,4.5,0,0,0,4,0.08
+Sesame beverage water (extract of seeds w/ husk),1592,68,0.6,6.4,1.8,0.6,0.5,0.03
+Sesame beverage water (extract of seeds w/o husk),1593,72,1.4,6.4,2.2,0.6,0.5,0.05
+Rye rusks,1595,379,51.9,10.8,9,19,2.1,1.15
+Wheat rusks (unsweetened),1597,476,66.2,18.2,9.9,3,3.1,0.88
+Wheat bread (sweetened),1598,356,54.4,10.9,8.2,2.8,16.5,0.6
+Wheat bread (unsweetened),1601,286,44.6,7.8,7.6,2.8,1.9,0.44
+Wheat rusks,1603,419,70.7,9.23,10.32,4.2,9.8,0.71
+Wheat rusks (wholemeal),1604,387,64.1,6.17,12.94,10,5.2,1.51
+Almond bun,1605,397,61.3,13.55,6.1,1.7,26.6,0.59
+Doughnut,1606,425,42.7,25.85,4.99,1.3,18.8,1.28
+Cream Crackers,1611,484,60.3,22.5,7.8,4.3,1.6,1.48
+Filled wafers biscuits,1612,538,62.3,29.93,4.05,1.7,32.7,0.29
+Biscuits (wholemeal),1613,470,59.1,20.61,8.84,6,23.9,1.27
+Biscuits (Marie),1614,449,74.7,12.79,6.56,3.1,20,1.12
+Biscuits shortcrust pastry,1615,480,71.8,18.37,5.42,1.8,22.2,0.98
+Biscuits w/ jam filling,1616,474,70.9,18.94,3.99,1.4,36.5,0.61
+Biscuits w/ nougat filling,1617,485,67,20.69,6.1,2.6,28.4,0.59
+Meringue w/ chocolate,1618,389,91,0.74,3.19,0,92.8,0.4
+Cookies (unspec.),1619,492,68.8,21.42,4.67,2.1,31.5,0.62
+Cookie w/ shortcrust & meringue,1620,515,52.8,30.48,6.73,1.8,17.6,0.69
+American chocolate chip cookie,1621,486,63.3,22.89,5.24,2.5,43.9,0.81
+Savoury biscuits,1623,462,63.1,18.1,7,9,17,1.25
+Gingerbread biscuit,1624,453,72.1,15.4,4.9,2.2,33.1,1.6
+Spettekaka,1625,427,71.4,9.8,11.8,1,65.1,0.3
+Meringue,1626,395,95.3,0,1.9,0,94,0.16
+Filled biscuits,1627,489,60.7,24.5,5.4,1.8,24.2,0.78
+Cheese crackers,1628,492,54.1,25.3,10.1,4.1,5,2.49
+Crackers (salty),1629,509,55.3,27.02,8.72,5.1,4.8,1.84
+Biscuits (sorbitol-sweetened),1631,444,76.1,12,6,2,1.6,1.18
+Gingerbread biscuit (sorbitol-sweetened),1632,504,63.2,24,8,1.5,3,1.73
+Plain wafers,1633,420,76.3,7.5,10,1.5,2.3,1.15
+Ice cream cone wafer,1636,416,80.8,6.4,6.33,2.6,25.7,0.59
+Cookies (sorbitol-sweetened),1637,546,54.6,33,7,2,1.6,0.65
+Almond macaroons,1638,421,46.62,20.82,10.09,3.17,45.7,0.11
+Shortcrust dough (baked),1639,504,44.11,34.13,4.68,1.74,9.9,0.55
+Puff pastry dough (baked),1640,430,53.89,20.89,5.56,1.83,17.9,0.73
+Filo dough sheets,1642,289,57.9,1.87,8.04,2.4,3,0.63
+Pastry w/ almond dough chocolate,1646,487,42.6,31.43,6.63,4.8,31.6,0.41
+Mazarin,1653,436,55,20.55,6.69,2.1,34.7,0.39
+Chocolate Swiss roll w/ butter cream,1654,390,53.2,16.49,6.06,1.8,36.4,0.71
+Swiss roll w/ jam,1655,380,57.4,14.87,3,1.4,40.2,0.62
+Swedish punch/arrak roll,1656,453,61.2,20.15,4.97,3.3,50.7,0.16
+Chocolate ball,1657,504,49.6,31.16,4.4,4.7,29.1,0.34
+Apple cake w/ dried bread crumbs,1660,218,28.43,10.51,1.18,2.52,19.6,0.28
+Semla,1662,333,39.7,16.33,5.38,2.9,19.2,0.27
+"Love Treats(""Kärleksmums"")",1663,421,47.64,23.22,4.17,2.54,36.8,0.43
+Ambrosia cake,1664,377,53.78,16.17,3.46,0.87,37.8,0.41
+Arrack ball,1666,445,57.98,21.79,3.23,1.57,40.4,0.49
+Cream puffs,1667,201,17.88,11.66,5.86,0.88,0.5,0.25
+French apple cake ,1669,233,19.54,15.17,3,3.53,19.4,0.17
+Tosca cake spongecake almonds & caramel,1671,404,43.87,21.79,6.67,3.09,29.7,0.44
+Chocolate sponge cake,1672,339,39.69,17.19,5.27,2.36,23.9,0.48
+American muffin unspec.,1677,431,46.8,24.25,5.81,1.6,25.9,0.73
+Gingerbread cake,1678,391,54.7,15.88,6.19,1.8,32.4,0.92
+Sponge cake for layer cake,1679,301,58.73,4.19,5.93,0.44,36.4,0.34
+Gingerbread sponge cake,1682,335,45.3,14.74,4.67,0.92,26.3,0.44
+Sponge cake,1685,319,52.96,9.1,5.17,1.08,31.5,0.43
+Digestive biscuits (23% wholegrain),1686,476,66.1,19.77,6.38,3.4,16.7,1.62
+Fruit cake,1687,387,42.88,21.14,5.02,2.84,27.2,0.43
+Ice cream (12% fat),1689,196,25.1,9.2,3.18,0,19.5,0.13
+Ice cream (8% fat),1690,177,27,6.5,2.46,0,21.6,0.12
+Ice cream (10% fat),1691,193,23.1,9.67,3.31,0,16.5,0.12
+Ice cream (6% fat),1693,139,17.54,5.72,4.26,0,6.3,0.22
+Ice cream (15% fat),1696,222,19.6,14.45,3.66,0,15.1,0.23
+Ice cream (5% fat),1698,167,26.56,4.7,4.29,0,17,0.15
+Ice cream stick (25% fat),1699,348,26.01,25.33,4.63,0,20.3,0.13
+Soft ice cream,1703,154,19.7,6.97,3.13,0,17.2,0.19
+Cream imitate from oats (13% fat),1712,141,5.1,13,0.93,0.7,3.5,0.11
+Sour cream (12% fat),1713,137,4.43,12,3.1,0,3.4,0.09
+Coffee cream (12% fat),1714,137,4.4,12,3.13,0,4.3,0.09
+Whipped cream (40% fat),1715,374,3,40,2.11,0,2.7,0.06
+Cream lower (27% fat),1716,264,3.6,27,2.62,0,3.6,0.08
+Cooking cream (15% fat),1717,162,4.2,15,3,0,4.2,0.09
+Crème fraiche (34% fat),1719,323,3.27,34,2.33,0,2.6,0.07
+Crème fraiche low fat (15% fat),1721,162,4.26,15,2.99,0,3.2,0.09
+Coffee whitener (35% fat),1725,556,54.9,35.5,4.8,0,54,0.45
+Rhubarb fool,1729,57,12.65,0.12,0.25,2.15,10.7,0.01
+Rhubarb soup (thickened w/ potato starch),1730,52,11.7,0.1,0.2,1.72,10.6,0.01
+Orange juice soup,1732,46,10.56,0.08,0.36,0.27,8.1,0.01
+Blueberry soup,1734,47,10.39,0.26,0.22,0.99,8,0.01
+Blackcurrant fool,1740,71,15.09,0.44,0.45,2.31,10.1,0.01
+Apple compote,1741,65,14.96,0.04,0,1.9,14.4,0
+Apple fool,1742,60,13.86,0.04,0,1.73,11.9,0
+Apple soup,1743,49,11.21,0.04,0,1.4,9.6,0.01
+"Fruitdrink blueberry (RTE, fortified)",1749,48,10.6,0.1,0.75,0.25,9.6,0.03
+"Rosehip soup (RTE, fortified)",1751,52,12.1,0.1,0.2,0.5,9.5,0.02
+"Rosehip soup (RTE, unsweetened, fortified)",1752,20,4.3,0.1,0.2,0.3,0.8,0.02
+Prune cake,1758,171,24.25,5.18,5.38,2.88,20.1,0.1
+Chocolate pudding,1764,125,19.11,2.92,4.8,1.24,13.1,0.12
+Chocolate mousse,1766,297,28.67,17.76,5.8,0.06,22.9,0.2
+Lemon/orange mousse,1767,276,18.15,20.4,5.31,0.04,17.2,0.11
+Butterscotch sauce,1769,307,28.42,20.72,2.19,0,28.4,0.31
+Vanilla custard pudding,1770,153,15.96,8.35,3.66,0.01,16,0.08
+Swedish cheese cake (9% fat),1772,183,15.8,8.8,10.1,0,16,0.14
+"Swedish cheese cake (3% fat, unsweetened)",1773,111,8.6,3,12,0.4,8,0.14
+Lemon mousse,1775,173,16.2,11,2.4,0,13.6,0.02
+"Vanilla sauce (powder, w/ milk)",1777,106,16.06,3.24,3.06,0.04,11.9,0.16
+Chocolate sauce,1778,352,69.5,5.53,3.13,3.9,55.1,0.26
+Fruit sauce,1779,316,77.8,0,0.1,0,54.2,0.27
+Apple pie w/ bottom & top crust,1780,291,40,12.5,3.2,2.4,23,0.59
+Rhubarb pie,1781,274,34.56,13.33,2.63,2.86,17.1,0.22
+Apple pie,1782,222,25.02,12.15,2.28,1.68,9.8,0.21
+Frozen cheese cake,1783,266,14.58,20.91,5.11,0.46,11.4,0.31
+Cheese cake (w/ crust made of digestive biscuits),1784,292,19.96,21.25,5.52,0.38,14.4,0.6
+Semolina pudding,1785,104,15.27,2.37,4.91,0.46,9.4,0.99
+Apple crumble,1786,241,32.46,10.93,1.83,2.55,17.6,0.17
+Prune soufflé,1788,62,12.42,0.25,1.84,0.86,10.7,0.05
+Apple pie (deep fried),1789,303,35.1,16.6,2.6,1.7,14,0.96
+Banana (deep fried),1790,176,27.28,6.02,2.25,1.53,11.2,0.46
+Baked apples,1791,307,23.69,20.97,4.1,4.59,23.6,0.08
+Orange marmalade,1793,233,56.9,0,0.2,0.7,54.1,0.05
+Red currant jelly,1794,280,68.4,0,0.2,0.7,63.7,0.05
+Black currant jelly,1795,265,64.7,0,0.2,0.8,61.4,0.04
+Orange marmalade (reduced sugar),1796,185,44.5,0.1,0.5,0.7,41.6,0.05
+Marmalade diff. flavours,1797,238,57.7,0.1,0.3,0.7,54.1,0.13
+Cowberry/lingonberry jam,1798,148,35.3,0.2,0.25,1,30.8,0.03
+Cowberry/lingonberry jam (unsweetened),1800,43,8.8,0.4,0.4,1.2,8.7,0
+Strawberry jam,1801,171,41.1,0.1,0.25,1.1,38.4,0.03
+Blackberry jam,1802,174,41.2,0.1,0.2,2.4,42,0.13
+Blueberry jam,1803,148,34.9,0.3,0.2,1.5,32,0.13
+Raspberry jam,1804,184,43.6,0.2,0.4,1.7,42,0.04
+Cloudberry jam,1805,181,42,0.3,0.5,3,42,0.13
+Gooseberry jam,1806,163,38.5,0.2,0.3,1.8,38,0.08
+Cherry jam,1808,181,42.6,0.3,0.7,1.2,40,0.08
+Apple sauce,1809,233,56.9,0,0.2,0.7,44.1,0.01
+Apple sauce (reduced sugar),1810,128,30.9,0,0.2,0.7,31.7,0.01
+Apple sauce (unsweetened),1811,48,11.3,0,0.2,0.7,10,0.04
+Cumberland sauce,1812,214,47.97,0.29,0.57,0.7,44,0.04
+Orange syrup concentrate (fortified w/ vitamin C),1814,194,47.5,0,0.3,0,46,0.06
+"Orange syrup (RTD, fortified)",1815,30,7.5,0,0,0,7.4,0.01
+Fruit syrup (concentrate),1819,213,52.4,0,0,0,52.4,0.04
+Fruit syrup (RTD),1820,36,8.8,0,0,0,6.6,0
+"Blackcurrant syrup (concentrate, fortified w/ vits.)",1821,174,42.3,0,0.4,0,42,0.06
+"Fruit syrup (concentrate, w/ synthetic sweetener)",1822,93,22.5,0,0.5,0,3.6,0.06
+Fruit drink (carbonated),1826,40,9.9,0,0,0,10,0.06
+Fruit drink (still),1827,48,11.9,0,0,0,10,0.07
+Soft drinks (carbonated),1828,43,10.5,0,0,0,10.5,0
+Cola drink,1829,43,10.5,0,0,0,10.5,0
+"Soft drinks (carbonated, synthetic sweeteners)",1830,0,0.1,0,0,0,0,0
+Diet Cola (w/ synthetic sweeteners),1831,0,0.1,0,0,0,0,0
+Sports drink (RTD),1832,29,7.2,0,0,0,6,0.07
+Raspberry syrup (RTD),1837,37,9,0,0,0,9.6,0.01
+"Blackcurrant syrup (RTD, fortified )",1838,32,8,0,0,0,8,0.02
+"Cowberry/lingonberry drink (RTD, fortified)",1840,28,7,0,0,0,7,0.01
+"Apple drink (RTD, fortified)",1841,32,7.9,0,0,0,8,0.01
+"Fruit syrup (unsweetened, RTD, fortified)",1842,17,4.2,0,0,0,4.2,0.01
+Ice lolly,1843,95,23.25,0,0.13,0,22.6,0.12
+Sorbet,1844,132,30.5,0.57,0.77,0,26.1,0.05
+Chocolate drink (water),1846,47,7.64,0.33,3.12,0.42,7.4,0.12
+Chocolate drink (milk),1847,68,9.8,1.5,3.5,0.5,8.8,0.18
+Milk chocolate w/ chopped hazelnuts,1848,545,55.6,31.76,8.72,1.7,47.3,0.14
+Milk chocolate w/ almond caramel centre,1849,539,60.1,31.1,4.13,1.8,51.5,0.8
+Milk chocolate w/ soft toffee centre,1850,496,62.9,24.25,6.52,0,44.8,0.53
+Wafers covered w/ milk chocolate,1851,497,67.2,22.31,5.44,2.3,46,0.2
+Caramel filled wafer covered in milk chocolate,1852,481,66.1,21.17,5.17,2.2,46.8,0.35
+"Nougat topped w/ caramel & peanuts, covered w/ milk chocolate",1853,490,54,25.09,10.59,3.2,42.3,0.46
+Soft nougat & caramel covered w/ milk chocolate,1854,445,69.3,16.2,3.95,2.2,48.6,0.26
+Chocolate truffles,1855,547,53.7,33.7,7.4,0.6,50.8,0.19
+"Coconut filling, coated w/ milk chocolate",1859,478,56.1,25.7,3.61,4.2,46.2,0.21
+Chocolate hazelnut spread,1860,526,56.9,29.6,5.75,4.9,57.3,0.07
+Chocolate (unsweetened),1861,577,46.9,39,10,0.4,4.3,0.16
+Jelly sweets,1863,352,79.4,0,7.3,0,62.1,0.19
+Fruit candy (sourish),1864,395,97.2,0,0,0,78,0.06
+Toffee fudge,1865,456,68.9,18,4.1,0,47.6,0.8
+Liquorice allsorts,1866,378,86.1,3.2,0,0,61.9,0.19
+Marmalade sweets,1867,336,82.6,0,0,0,54.7,0.16
+Marshmallows foam sweets,1868,335,80.4,0,2,0,67,0.1
+Peppermint sweet,1869,399,98.1,0,0,0,67,0.02
+Chewing gum,1870,378,92.7,0,0.4,0,81,0.06
+"Lollipop (chocolate, toffee caramel)",1871,436,80.6,11.1,2.5,0,60.7,0.06
+Liquorice (salty),1873,395,94.2,0,3,0,78,0.73
+Liquorice (super salty),1874,343,76,0,7.83,1.2,43.3,0.14
+Chocolate toffee covered w/ chocolate,1875,470,71.7,18.23,4.34,0,42.9,0.17
+Chocolate filled wafer covered w/ milk chocolate,1876,506,59.8,25,10,0.7,43.2,0.5
+Fruit toffee,1877,394,96.3,0,0.68,0,57.1,0.02
+Energy bar w/ chocolate nuts,1881,419,69.6,11.17,7.1,4.5,33.5,0.4
+Fruit candy sourish (sugar free),1882,325,76.9,0,3,0,0,0.63
+Chewing gum (sugar free),1884,352,86.1,0,0.6,0,0,0.26
+Almond paste,1885,460,51.5,23,9.9,3.5,50.4,0.08
+Cocoa powder (20-22% fat),1886,394,10.6,21.5,23.5,34,0,0.09
+Chocolate ball (wholemeal),1888,454,53.54,24.05,3.98,3.98,36,0.3
+Sugar,1892,405,99.6,0,0,0,100,0
+Brown sugar,1893,388,95.5,0,0,0,94,0.14
+Golden syrup,1894,323,79.6,0,0,0,80,1.13
+Honey,1896,332,81.5,0,0.3,0,74.7,0.01
+Glucose,1897,370,91.1,0,0,0,91.1,0
+Fructose,1898,373,91.7,0,0,0,91.7,0
+Sorbitol w/ saccharin,1899,406,100,0,0,0,0,0
+Small beer (2.3% vol.),1900,29,3.8,0,0.2,0,0.5,0.01
+Beer/pilsner (3.5% vol.),1902,40,4.6,0,0.4,0,0.3,0.01
+Cider (1% vol.),1903,47,10.1,0,0,0,10.1,0.02
+Wine white (1% vol.),1904,17,2.8,0,0,0,2.8,0.01
+Wine red/rosé (1% vol.) ,1905,17,2.8,0,0,0,2.8,0.01
+Strong beer (5.4% vol.),1906,42,3,0,0,0,0,0.01
+Wine red (14% vol.),1907,79,1,0,0,0,0.7,0.01
+Wine white (12% vol.),1908,70,1,0,0,0,0.9,0.01
+Wine white/Rhine wine (10% vol.),1909,71,3.8,0,0.1,0,3.8,0.01
+Wine mulled (10% vol.),1912,124,17,0,0,0,17,0.01
+Wine Madeira (18% vol.),1914,129,7.9,0,0,0,7.9,0.01
+Wine Port white red (20% vol.),1915,150,9.5,0,0,0,9.5,0.01
+Sherry medium dry (17% vol.),1916,125,3.4,0,0,0,3.4,0.02
+Wine mulled (16% vol.),1917,179,22.3,0,0,0,22.3,0.02
+Vodka or snaps (40% vol.),1918,222,0,0,0,0,0,0
+Liqueur sweet (24% vol.) ,1919,266,33,0,0,0,33,0
+BB liqueur (24% vol.),1920,321,27,0,0,0,27,0
+Cognac/brandy (40% vol.),1921,225,0.8,0,0,0,0.8,0
+Swedish punch arrack (26% vol.) ,1922,244,26,0,0,0,26,0
+Rum (40% vol.) ,1923,223,0.3,0,0,0,0.3,0
+Aquavit (40% vol.),1924,226,1.1,0,0,0,1.1,0
+Gin (40% vol.) ,1925,222,0,0,0,0,0,0
+Whisky (40% vol.),1926,222,0,0,0,0,0,0
+Liqueur less sweet (24% vol.) ,1927,232,24.7,0,0,0,24.7,0
+Irish Coffee,1929,78,4.09,2.69,0.14,0,3.8,0.02
+Buckwheat flour,1930,357,65.1,3.55,13.5,3.2,1.2,0
+Oat gruel powder (fortified),1931,358,56,5.8,15.8,8,1.3,1.6
+Barley flour (whole),1932,341,64.7,3,9.2,7.6,0.9,0.01
+"Corn flour (yellow, degermed)",1933,349,73.2,1.2,7.8,5,1.3,0
+Rye flour (wholegrain),1934,326,60.2,2.5,8.2,13.6,2.4,0.01
+Wheat flour (wholemeal),1935,331,60.68,2.5,10,11.32,0.7,0.01
+Wheat diet (fortified),1936,388,53.5,8.5,19,9.5,3.6,0.07
+Wheat flour (unfortified),1941,352,72.4,1.88,8.47,3.6,1.5,0
+Corn starch,1945,362,87.5,0.74,0,0,0,0.02
+Potato flour/pearls,1946,346,84.3,0.4,0,0,0,0.01
+Samarin powder,1947,0,0,0,0,0,0,39.13
+Samarin (RTD),1948,0,0,0,0,0,0,0.78
+Soda water,1949,0,0,0,0,0,0,0.05
+Vichy water,1950,0,0,0,0,0,0,0.28
+Mineral water,1951,0,0,0,0,0,0,0.04
+Tap water,1953,0,0,0,0,0,0,0.01
+Instant coffee powder,1955,304,42.6,1.7,19.5,19,6.5,0.1
+Instant coffee (RTD),1956,2,0.4,0,0.1,0,0,0.01
+Coffee (brewed),1957,0,0.3,0,0,0,0,0.01
+Coffee espresso (RTD),1958,9,1.67,0.18,0.12,0,0,0.04
+"Instant coffee (decaffeinated, RTD)",1959,2,0.3,0,0.2,0,0,0
+Tea (instant),1960,309,61.8,0.4,11.7,3.7,0,0.33
+Tea (brewed),1962,0,0,0,0,0,0,0.01
+Herbal tea (RTD),1963,1,0.3,0,0,0,0,0
+Rosehip tea w/ blackcurrant (RTD),1964,3,0.7,0,0,0,0,0
+Acetic acid (12%),1965,49,12,0,0,0,0,0
+Vinegar acetic acid (7%),1966,30,7,0,0.4,0,0.6,0.05
+Cider vinegar acetic acid (7%),1967,30,7,0,0.4,0,0.6,0.02
+Tomato chili sauce,1968,81,16.7,0.5,1.5,1.2,14.8,2.15
+Ketchup,1969,91,18.5,0.5,1,3.9,19.4,1.7
+HP-sauce,1970,107,25.2,0,1.1,0,1.6,2.45
+Grill sauce,1971,100,8,6.9,1.5,0,1.6,2.04
+Mustard (swedish),1972,173,23.1,6.83,4.51,0,10.8,1.2
+Mustard (french),1973,93,5.3,5,6,1.7,0.9,0.14
+Sweet & sour sauce,1974,96,23.3,0,0.2,0,11.6,0.62
+Table salt w/ iodine,1975,0,0,0,0,0,0,99
+Mineral salt,1976,0,0,0,0,0,0,64.25
+Sea salt,1977,0,0,0,0,0,0,94
+Herbal salt,1978,128,22.9,0.5,7.6,0,0.3,75
+"Baker's yeast (fresh, compressed)",1979,110,14.1,0.4,12.1,0,4.4,0.04
+"Baker's yeast (dried, granualted)",1980,360,48.1,1.6,37,0,4.4,0.13
+Baking powder,1981,174,42.4,0,0.1,0.5,0,19.73
+Bechamel sauce,1983,108,9.35,5.67,4.73,0.18,5.6,1.15
+Cheese sauce,1988,155,7.38,10.79,7.25,0.13,4.7,0.87
+Thin gravy,1992,29,0,2.67,1.17,0,0.2,0.46
+Currant sauce,1997,69,9.61,2.92,0.78,0.62,7.1,1.01
+Tomato sauce (spicy),2000,53,5.89,2.57,1.05,1.42,4.8,0.67
+Dill sauce,2001,111,7.49,8.4,1.41,0.36,3.7,1.25
+Sweet chili sauce,2007,207,43.36,2.87,0.75,1.3,43.3,2.94
+Teryaki sauce,2012,110,22.2,0.83,3.19,0,23,6.22
+Surimi white fish,2035,105,23.5,0.72,0.75,0,3.5,1.49
+Cream replacement (15% fat),2036,155,3,15.26,2.04,0,1.6,0.25
+Cream replacement (7% fat),2037,89,5.4,7.08,1.12,0,1.5,0.04
+Cream replacement (20% fat),2039,206,5,19.68,2.81,0,4.2,0.08
+Coffee cream replacement (10% fat),2040,118,4.4,9.88,3.02,0,4.1,0.19
+Vanilla sauce (12% fat),2041,202,19.1,12.07,4.38,0,15.5,0.12
+"Creme fraiche (13% fat, flavoured)",2043,156,6.7,13.22,2.89,0,4,0.95
+"Creme fraiche (28% fat, flavoured)",2044,275,4.4,28.11,2.02,0,3.2,1.23
+Mini Fraiche (5% fat),2046,84,5.7,5.16,3.83,0,3.6,0.11
+Processed cheese spread (12% fat),2047,186,3.4,12.97,14.28,0,1.2,1.75
+"Fermented milk (4,2% fat)",2048,68,4.2,4.13,3.49,0,3.4,0.09
+"Yoghurt (3.6% fat, flavoured)",2049,91,11.5,3.69,2.96,0,10,0.08
+White chocolate,2051,585,52.4,39.28,6.04,0,51.8,0.2
+Dark chocolate (>70% cocoa),2052,572,50.7,36.98,9.69,0,22.1,0.03
+Dark chocolate (<70% cocoa),2053,536,63.1,28.77,6.33,0,45.5,0.01
+Chocolate (<35% cocoa),2054,556,59.8,32.82,5.64,0,47.7,0.01
+Milk chocolate,2055,564,52.9,35.21,9.19,0,48.5,0.23
+Meat for kebab (RTF),2056,248,6.2,18.61,14.33,0,0.4,1.8
+Avorio (dry),2057,358,78.1,1.28,6.74,1.2,1,0
+Roasted onion,2058,607,35,48.54,6.44,4.9,6.2,1.62
+"Ice cream stick (5,5% fat)",2059,166,25.5,5.59,3.26,0,20.8,0.12
+Ice cream stick (10% fat),2060,199,22.6,10.2,4.07,0,17.4,0.15
+ FiberBar natural All-Bran,2061,446,49.9,20.81,6.87,16.5,22.9,0.9
+Swedish veg. hash w/ soya protein,2065,127,16.3,3.62,5.56,3.1,1.4,0.79
+Soya- & wheat protein balls (cold),2067,165,4.3,7,18.54,5.5,2.5,0.18
+Soya protein mince (cold),2068,168,5.5,6.81,17.65,7.4,0,0.68
+Veg. stewing pieces (wheat protein),2069,232,9.9,9.14,27.41,0,1.7,1.93
+"Cereal bar (wholemeal, enriched)",2071,393,77.9,4.37,8.4,2.1,34.5,1.27
+Cereal bar (fortified),2072,398,73.2,6.46,8.1,5.8,34.3,1.06
+Peanut sauce,2073,281,8.6,24.16,6.3,3.46,6,1.31
+Egg noodles (boiled w/ salt),2079,128,23.16,1.43,4.75,0.98,0.6,0.2
+"Prinskorv (61% meat, pan-fried)",2097,283,4.02,25.37,10.57,0,0,2.01
+Hamburger (beef & pork),2099,237,0,16.14,23.11,0,0,1.16
+Minced meat sauce (beef & pork),2100,118,4.65,7.04,8.64,1.03,3.5,1.85
+Beef/Pork meat (fried),2103,175,0,8.9,23.49,0,0,0.45
+Oatmeal porridge (fibre rich),2123,68,11.17,1.35,1.84,1.94,0.2,0.7
+Glass noodles (boiled w/ salt),2125,135,32.89,0.02,0.06,0.19,0.1,0.21
+Cheese & ham sauce,2142,145,5.97,8.93,10.3,0.1,3.7,1.63
+Tzatziki,2144,76,4.25,5.52,2.4,0.01,2.6,1.07
+Parsnip (boiled w/ salt),2162,71,12.55,0.6,1.68,3.75,6,0.4
+Fennel (boiled w/ salt),2164,28,1.79,0.4,2.79,3.29,2.6,0.41
+Potato dumpling,2165,156,19.74,6.06,4.59,1.89,1,1.11
+Swedish cheese cake (7% fat),2184,172,16.6,7,10.4,0,11.9,0.13
+Rapeseed oil ,2189,884,0,100,0,0,0,0
+"Blended spread (75% fat, fortified)",2190,667,0.5,75,0.5,0,0.4,1.18
+"Reduced-fat margarine (40% fat, fortified)",2192,368,3,40,0.5,0,0.3,1.5
+Scrambled eggs,2197,187,1.05,15.27,11.94,0,1.1,1.2
+Egg (boiled),2205,137,0.4,9.73,12.25,0,0.4,0.36
+Aloe Vera Juice (non flavoured),2214,3,0.5,0.09,0,0,0.1,0.1
+Aloe vera drink (non flavoured),2218,19,4.4,0.09,0,0,0.2,0.06
+Gingerbread biscuit (gluten free),2222,460,75.6,16.24,1.49,1.6,28.9,1.16
+"Digestive crackers (wholemeal, gluten free)",2223,462,75.3,16.13,1.88,3.2,19.6,1.19
+Chocolate cookies (gluten free),2224,502,66.8,25.09,1.25,2.1,16.3,1.08
+"Crisp bread (gluten free, 7,5% fibre) ",2225,372,79.9,2.31,2.92,8.1,3,1.29
+Bearnaise sauce (8% fat),2228,112,7.7,8.04,2.3,0,2.8,1.4
+"Cream sauce (6% fat, RTE)",2229,88,7.1,5.78,2.04,0,3.1,1.23
+"Cheese sauce (8% fat, RTE)",2230,118,7.9,7.58,4.66,0,4.1,1.34
+"Bearnaise sauce (40% fat, RTE)",2231,342,5.9,35.53,1.02,0,3,1.21
+"Red wine sauce (1,5% fat, RTE)",2232,65,12.1,1.22,1.21,0,1.3,1.37
+" Kebab sauce white (30% fat, RTE)",2233,300,5,30.85,1.72,0,2,0.89
+"Mushroom sauce (8,5% fat, RTE)",2234,119,7.6,8.71,2.68,0,2.4,1.22
+Hotdog low fat,2236,170,7.6,9.86,12,1.5,1,1.5
+Chorizo low fat (9% fat),2238,160,4.8,9.02,14.38,1.2,0.9,1.5
+Sausage low fat (7% fat),2239,131,6,7.04,10.13,1.5,1.3,1.5
+Salami low fat,2240,174,1.1,8.01,24.38,0,0,2.55
+"Fruit yoghurt (0.2% fat)",2242,64,11.5,0.3,3.57,0,9,0.12
+"Fruit yoghurt (0,.1% fat, lactose-reduced)",2243,64,11.2,0.31,3.89,0,6.9,0.12
+Dark chocolate covered w/ thin mints,2246,409,88.1,4.63,2.56,0,68.9,0.01
+Mozzarella cheese (18% fat),2255,214,0.8,16.6,15.63,0,0.4,0.5
+Fruitdrink rosehip,2301,48,10.6,0.1,0.75,0.25,9.6,0.03
+Energy drink (fortified),2302,39,9.6,0,0,0,9.6,0
+"Margarine liquid (80% fat, milkfree)",2401,707,0,80,0,0,0,1
+"Margarine spread (70% fat, dairy-free)",2403,619,0,70,0,0,0,0.75
+"Margarine for cooking & baking (80% fat, dairy-free, fortified)",2404,707,0,80,0,0,0,1
+Lamb shoulder chop (boiled),2413,217,0,14.57,21.55,0,0,0.73
+Tilapia,2468,87,0,1.59,17.88,0,0,0.07
+"Reduced-fat margarine (28% fat, fortified)",2472,272,4,28,2,0,0.3,1.5
+Margarine liquid (74% fat),2474,727,0.5,82,0,0,0,0
+"Margarine spread (70% fat, fortified)",2490,623,0.5,70,0.4,0,0.5,1.25
+Mince blend (beef & pork),2499,192,0,13.17,18.57,0,0,0.18
+Döner kebab,2506,216,18.84,11.96,7.82,1.21,1.9,1.37
+Rice Basmati (boiled),2513,121,25.91,0.34,3.11,0.17,0.1,0.55
+Rice Jasmine (boiled),2514,113,25.04,0.22,2.4,0,0.1,0.52
+Rice long-grained (boiled w/ salt),2515,113,24.63,0.22,2.5,0.32,0,0.52
+"Rice long-grain (parboiled, boiled)",2516,129,27.87,0.43,2.75,0.5,0.2,0.58
+Rice brown long-grain (boiled),2517,138,27.28,1.14,3.57,1.59,0.2,0.59
+Rice instant (boiled w/ salt),2518,103,22.84,0.06,2.26,0.43,0,0.2
+Rice instant (boiled),2519,111,23.96,0.21,2.59,0.79,0.2,1.06
+"Pasta (gluten free, boiled)",2521,153,32.79,0.55,3.09,1.18,0.3,0.23
+Green peas (boiled),2547,69,8.85,0.4,5.16,4.41,5,0.69
+Moose chuck,2552,113,0.2,2.31,22.5,0,0,0.13
+Moose sirloin,2555,106,0,1.12,23.63,0,0,0.15
+Taco shells,2557,486,61,23.5,5.5,4,0.9,0.59
+Romaine lettuce,2559,16,0.9,0.2,1.88,1.77,1.3,0.02
+Arugula rocket salad raw,2561,21,0,0.4,3.56,1.7,0,0.08
+Okra (boiled),2565,25,2.5,0.2,1.81,3.1,1.4,0.01
+Salt (w/o iodine),2883,0,0,0,0,0,0,94
+Halloumi cheese (fried/grilled),2899,308,2.01,23.13,23.53,0,0.9,4.44
+Hamburger dressing,2973,542,10.08,56.01,1.28,0.41,7.4,0.92
+Hummus,3051,306,8.47,26.51,5.79,7.3,0.7,1.57
+Chili peanuts,3069,516,36.5,32.33,16.62,7.43,6.4,2.66
+Pine nuts,3071,697,8.9,66.8,14.76,5.5,4.9,0
+Bulgur (boiled w/ salt),3136,86,16.55,0.32,2.98,1.87,0.1,0.54
+Reindeer sausage,3141,252,4,18.8,17.19,0,0.9,2.75
+Lamb sausage,3213,255,4.8,19.3,15.88,0,0.6,2.43
+"Cheese curd (Quark) (0,2% fat)",3243,64,5.2,0.2,9.97,0,3.2,0.08
+Moose mince ,3323,106,0,1.59,22.59,0,0,0.14
+Moose thigh ,3324,108,1.5,1.32,22.13,0,0,0.11
+Flaxseed oil,3433,884,0,100,0,0,0,0
+Pickled herring,3500,245,20,14,9.75,0,17.7,2.89
+Quinoa red (boiled w/ salt),3518,140,21.7,2.4,4.38,6.7,0.8,0.69
+"Bulgur (wholegrain, boiled)",3564,113,20.7,0.6,4.08,3.8,0.3,0.02
+Lamb mince (pan-fried),3620,289,0,22.68,21.06,0,0,1.17
+Elk mince (pan-fried),3621,129,0,1.94,27.55,0,0,1.09
+Soya beverage (fortified),3668,37,3.2,1.5,2.57,0,2.4,0.09
+"Couscous (wholegrain, boiled w/ salt)",3752,144,27,0.9,4.66,3.9,1.1,0.57
+Pasta (boiled w/ salt),3756,139,27.5,0.6,4.56,2,0.6,0.41
+White beans (boiled w/ salt),3760,112,11,0.9,8.75,12.5,0.6,0.53
+Large white beans (canned),3761,107,14.6,0.8,6.88,6.8,0.7,0.6
+"Chickpeas (boiled w/ salt)",3762,133,12.6,2.9,8.13,12.3,0.7,0.61
+Sweet potatoe,3765,82,17,0.3,1.3,2.7,4.2,0.08
+Spelt flour,3786,353,63.5,3.33,11.89,9.1,0.7,0
+Wheat & rye bread (7% fibre),3790,233,41.8,2.8,6.84,5.4,5.8,0.79
+White bread (5% fibre),3791,247,41.9,4.2,7.41,5.1,2.3,0.97
+"Bread (6% fibre, wheat, rye, wholemeal)",3794,248,46.1,2.2,7.41,5.6,10.3,0.69
+"Bread (7% fibre, wholemeal, rye)",3797,226,38.3,2.3,9.33,6.5,4.9,0.88
+Hot dog bun (fiber rich),3798,264,42.4,4.9,9.33,5.6,6.1,0.88
+Salmon (farmed),3800,203,0.7,13.4,20,0,0,0.11
+Chickpeas (canned),3815,128,15.7,2.5,7.5,6.2,0.4,0.53
+Red kidney beans (canned),3816,110,13.4,0.7,8.75,7.2,1,0.64
+Black turtle beans (canned),3817,111,13.8,1,8.13,6.8,0.3,0.57
+Hamburger bread,3818,285,51.15,4.14,8.12,4.19,6,0.67
+Brown beans roll (swedish),3820,95,15,0.5,4.38,6.4,4.9,2.26
+"Green lentils (boiled w/ salt)",3821,127,15.9,0.7,9.38,9.6,0.5,0.61
+"Red lentils (boiled w/ salt)",3822,125,14.6,0.6,10.63,9.1,0.6,0.55
+Red lentils (canned),3823,89,11.9,0.5,6.88,4.1,0.2,0.58
+Green lentils (canned),3824,92,13.1,0.6,6.25,4.4,0.2,0.76
+Hamburger bread (fiber rich),3825,264,42.4,4.9,9.33,5.6,6.1,0.88
+"Pasta (>50% wholegrain, boiled w/ salt)",3828,161,29.9,0.95,5.83,3.7,0.7,0.38
+"Egg (raw, organic)",3840,141,0.4,10.12,12.38,0,0.4,0.35
+"Egg yolk (raw, organic)",3841,327,0.6,29.23,16.19,0,0.6,0.14
+Spelt grain (cooked),3845,135,24.35,1.28,4.56,3.49,0.3,0.83
+Corn snacks,4011,384,81.7,1.7,8,2.5,3.6,2.42
+Corn salad,4052,19,0.8,0.2,2.63,1.8,0.2,0.01
+Hempseed oil,4074,884,0,100,0,0,0,0
+"Margarine for cooking & baking (dairy free, 80% fat, fortified)",4095,707,0,80,0,0,0,1
+"Margarine spread (60% fat, fortified)",4107,535,0.5,60,0.5,0,0.5,1
+"Margarine for cooking & baking (70% fat, fortified)",4109,623,0.5,70,0.5,0,0.5,1.7
+"Margarine for cooking & baking (80% fat, fortified)",4112,710,0.3,80,0.2,0,0.3,1.5
+Instant noodles diff. flavours ,4117,102,11.8,4.33,2.43,3.14,0.6,1.16
+Palmoil,4131,884,0,100,0,0,0,0
+"Egg (fried, organic)",4134,197,0.44,15.93,13.45,0,0.4,0.41
+"Egg (boiled, organic)",4135,141,0.4,10.12,12.38,0,0.4,0.35
+Striped catfish,4226,65,0,1.13,13.13,0,0,0.8
+Potato Solist (boiled w/ salt),4415,77,16.4,0.1,1.4,1.9,3,0.11
+Potato Swift (boiled w/ salt),4416,62,12.5,0.1,1.49,2.1,3.1,0.11
+Rice noodles (boiled),4448,108,24.9,0.2,0.91,1,0.1,0.05
+Sea Buckthorn,4456,86,6.3,5,0.7,6,6.2,0.01
+Potato (boiled w/ salt),4458,83,17.5,0.1,1.81,2.1,0.8,0.2
+Kale salad,4504,126,11.16,7.53,2.13,2.8,9.4,0.77
+New potato (boiled w/ salt),4511,71,14.8,0.1,1.44,1.98,3,0.11
+Catering potato (boiled w/ salt),4516,76,15.8,0.1,1.65,2.09,1,0.2
+Potato Asterix (boiled w/ salt),4518,81,16.8,0.1,1.9,2.3,0.7,0.21
+Potato Inova (boiled w/ salt),4519,75,15.4,0.1,1.78,2.17,0.8,0.23
+Potato King Edward (boiled w/ salt),4520,85,18,0.1,1.77,1.97,0.5,0.23
+Potato Almond potato (boiled w/ salt),4521,102,21.2,0.1,2.38,2.6,0.4,0.07
+Pork mince (15% fat),4583,202,0,15.06,16.82,0,0,0.15
+Hoki,4586,72,0,0.5,16.63,0,0,0.34
+Black chokeberry,4588,48,8.3,0.14,0.7,5.6,8.8,0.01
+White currant,4589,54,9.5,0.2,1.4,4.3,7.4,0
+Rice white short-grain (boiled w/ salt),4591,129,28.62,0.29,2.28,0.39,0.1,0.73
+Scallop,4600,45,0,0.5,9.5,0,0,1.38
+"Fish fingers (breaded, oven-baked)",4602,207,19,9.06,12.31,0,0.9,1.05
+Sprat,4607,152,0,9.05,17.63,0,0,0.17
+Pickled herring (drained),4608,235,21.9,11.99,9.75,0,18.9,2.94
+Cape hake,4611,73,0,0.64,16.56,0,0,0.36
+Gilt headed bream,4612,185,0,11.36,18.94,0,0,0.15
+Sea bass,4613,142,0,6.17,19.5,0,0,0.16
+Alaska pollock,4615,76,0,0.5,17.59,0,0,0.31
+Olive oil (extra virgine),4659,884,0,100,0,0,0,0
+Rapeseed oil (pressed),4661,884,0,100,0,0,0,0
+Fat blend liquid (80% fat),4662,711,0.3,80,0.5,0,0.8,1.25
+"Blended spread (43 % fat, fortified)",4663,403,5,43,0.5,0,0.5,1
+Red cherry tomatoes,4937,25,4.4,0.13,0.81,1.5,4.1,0.01
+Tomato (sundried),4938,167,23.3,1.5,9.38,11,23,10.75
+Broccoli (boiled),4939,26,2,0.3,2.38,2.72,1.2,0.03
+Spinach,4941,24,0.8,0.39,3.31,2.07,0.3,0.25
+Chard babyleafs,4942,16,0,0.5,2.13,1.5,0.2,0.5
+Leaf lettuce,4946,13,0,0.2,1.88,1.65,0.9,0.04
+Onion red,4947,46,9,0.1,1.19,1.98,4.5,0.01
+Chantarelles,5007,24,2.02,0.33,1.71,3.22,0,0
+Red deer meat,5043,108,0,2,22.31,0,0,0.23
+Fallow deer mince,5044,134,0,5.1,21.81,0,0,0.2
+"Reindeer meat (salted, smoked)",5045,132,0.5,2.7,26.19,0,0,2.75
+Fallow deer sausage,5047,231,1.42,17.6,17,0,0.4,2.2
+Wild boar shoulder,5048,104,0,1.4,22.63,0,0,0.17
+Wild boar fillet,5049,112,0,1.8,23.31,0,0,0.17
+European roe deer steak,5050,106,0,1.1,23.63,0,0,0.16
+Wild boar steak,5058,105,0,1.3,23,0,0,0.16
+Wild boar meat,5060,107,0,1.5,22.98,0,0,0.17
+European roe deer shoulder,5064,111,0,1.4,24.31,0,0,0.18
+Beef,5066,129,0,4.22,22.22,0,0,0.16
+Lamb meat,5067,166,0,9.39,19.94,0,0,0.18
+Lamb shoulder,5068,134,0,5.9,20.13,0,0,0.2
+"Blended spread (80% fat, fortified)",5085,704,0,80,0.25,0,0.2,1.3
+"Fat blend liquid (80% fat, fortified)",5087,710,0.3,80,0.2,0,0.2,1.5
+Old potato (boiled),5136,85,17.81,0.1,1.86,2.12,0.5,0.01
+Julmust,5147,34,8.3,0,0,0,8.3,0
+Slush (RTD),5149,41,10.2,0,0,0,10.2,0.01
+Almond drink (fortified),5150,26,3.5,1.3,0,0.2,3.1,0.12
+Soft drink w/ alcohol (4-5 % vol.),5152,52,5.9,0,0,0,5.8,0
+Potato (boiled),5153,83,17.5,0.1,1.81,2.1,0.8,0.01
+Cranberry drink RTD,5184,39,9.4,0,0.25,0,8.3,0.01
+"Super-skimmed milk (< 0.1% fat, fortified w/ vitamin D)",5727,35,4.9,0.05,3.61,0,4.9,0.1
+Bolognese sauce,5756,109,3.08,7.02,7.55,0.89,2.2,1.18
+Aioli w/ mayonnaise,5758,765,1.35,85.14,1.61,0.12,0.2,0.54
+Guacamole,5759,140,2.62,13.11,1.63,3.5,1.2,0.61
+Almond drink,5828,26,3.5,1.3,0,0.2,3.1,0.12
+Pulled pork (roasted),5847,172,5.3,8.3,18.5,0.8,2.5,1.3
+Tropical juice (RTD),5859,44,10.5,0,0.25,0,9.3,0.01
+Edamame beans,5860,130,4.9,6.4,10.87,5.1,1.7,0.02
+Asparagus green (boiled),5861,22,1.8,0.2,1.94,2.5,1.7,0.09
+Swede (boiled),5862,34,5,0.06,1.31,3.9,4.7,0.02
+Brussels sprouts (boiled),5863,41,5.5,0,2.63,4.3,0,0.23
+Celeriac (boiled),5864,25,2.7,0.5,1,2.9,0,0.11
+Yellow peas (boiled),5865,128,16.4,0.6,8.42,11.2,0.5,0.32
+Brown beans (boiled),5866,137,16.8,0.9,8.75,13.2,0,0.47
+Grey peas (boiled),5867,130,16.6,0.5,10.25,8.6,0,0.63
+Field bean (boiled),5868,134,18.4,0.5,10.25,7.1,0,0.64
+Apple Red (Aroma),5869,46,10.2,0.05,0,2.2,10.8,0
+Apple Red (Ingrid Marie),5870,49,11,0.05,0,2.2,10.3,0
+Apple (Frida),5871,56,12.6,0.05,0,2.2,10.9,0
+Apple green (Golden delicious Granny Smith),5872,43,9.4,0.05,0,2.5,8.8,0
+Pulled chicken (roasted),5875,133,0.9,5.4,19.57,0.9,2.7,1.71
+Spicy taco sauce,5916,40,7,0.05,1.88,1.6,4,1.65
+Barley crushed (boiled),5935,138,25.75,1.22,3.62,4.21,0.3,0.01
+Cod (farmed),5936,86,0,0.5,20,0,0,0.19
+Julmust(light),5942,0,0,0,0,0,8.3,0
+Yoghurt imitate from oats (fortified),5956,67,10.9,2,0.93,0.8,4.5,0.04
+Crème fraiche imitate from oats (15% fat),5957,150,3,15,0.82,1,4,0.04
+Oatbased spread,5961,237,11.2,20,3.26,0.5,3.5,0.7
+"Oatgurt (flavoured, fortified)",5962,96,15,3,1.69,0.9,8.5,0
+Oat drink/milk (flavoured),5963,52,9.8,0.6,1.22,1.1,7.5,0
+Oat drink/milk,5964,41,7.6,0.5,0.93,0.8,4,0.1
+"Sausage hot dogs (35% meat, grilled)",5965,229,12.8,16.3,7.58,1.1,1.2,2.95
+"Sausage (58% meat, grilled)",5966,267,5.4,23.7,8.7,0,0.4,2.25
+"Sausage Bratwurst (75% meat, grilled)",5967,267,4.5,22.7,11.46,0.8,0.7,2.44
+Black pudding (fried),5968,218,23,9.4,8.56,3.2,5.5,2.09
+"Pork belly w/ rind (cured, sliced, fried)",5969,385,0.1,38.3,11.38,0,0.1,2.53
+"Sausage (90% meat, grilled)",5970,292,1.4,24.8,16.04,0.8,0.4,2.3
+Spicemix taco,5973,373,72.6,3.55,5.63,12.2,23.7,20.25
+Tortilla,5974,314,57.5,4.8,8.44,1.75,1.9,1.8
+Pork mince (cooked),5978,241,0,19.9,16,0,0,0.17
+Ham topside (cooked),5999,117,0,3.8,20.5,0,0,0.16
+Roast pork (cooked),6002,126,0,5.1,20,0,0,0.16
+Pork medallions (cooked),6003,120,0,5.8,17,0,0,1.33
+Pork chop (cooked),6004,133,0,6,19.6,0,0,0.15
+Fillet of pork (cooked),6005,118,0,4.1,20,0,0,0.14
+Beef liver (cooked),6006,150,9.3,3.5,20,0,0,0.23
+Chicken liver (cooked),6007,124,4.5,4.6,16,0,0,0.28
+Pork liver (cooked),6008,142,6,3.2,22,0,0,0.34
+"Turkey (smoked, thin slices)",6009,98,1.1,2.1,18.33,0,0,3.15
+Sausage veg. (cooked),6010,252,14.1,15.3,14.03,1,1.1,2.31
+Cashew nuts w/ salt (roasted),6053,597,19.2,48.67,18,8.3,5.9,0.72
+"Pork loin (smoked, roasted)",6057,148,0,8.2,18.57,0,0,3.53
+Chicken breast fillet (roasted),6058,98,0,2,19.67,0,0,0.56
+"Yoghurt (1% fat, drinkable)",6069,59,10.1,0.8,2.76,0,9.3,0.09
+"Hard cheese (28% fat, organic)",6070,352,2.7,27,25.2,0,0,1.21
+Custard (RTE),6071,109,15.3,3.9,3.04,0,13,0.14
+"Yoghurt (3% fat, natural, organic)",6076,56,4.7,2.7,3.2,0,3,0.09
+"Pancakes (thin, RTE)",6079,186,25.9,5.8,6.51,1.3,6.2,0.64
+"Crisp bread (fiber rich, wholemeal, rye)",6081,352,64,3.31,8.57,14.43,1.2,1.18
+White bread (fibre rich),6083,260,43.8,4.17,8.61,5.38,3.9,1.01
+White bread (sour dough),6084,249,49.5,1.45,7.52,2.52,1.8,1.31
+Almond flour,6087,610,7.4,53.1,22.43,9.8,4,0.02
+"Fermented milk (3% fat, organic)",6088,57,4.5,2.9,3.32,0,3.8,0.1
+Cheese curd (Quark) (drinkable),6089,42,4.6,0.2,5.37,0,2.9,0.08
+Cheese curd (Quark) (flavoured w/ artificial sweetener),6090,64,5.2,0.2,9.97,0,2.5,0.08
+Cheese curd (Quark) (flavoured w/ sugar),6091,64,5.2,0.2,9.97,0,7.5,0.08
+"Yoghurt (8% sugar, drinkable)",6092,59,10.1,0.8,2.76,0,7.7,0.09
+"Yoghurt (11% sugar, drinkable)",6093,59,10.1,0.8,2.76,0,10.8,0.09
+Breakfast cereal wholemeal (fortified),6110,384,78.7,2.17,9.22,3.7,11.2,1.13
+"Yoghurt (10% fat, natural, aggregate)",6113,109,5.2,8.3,3.62,0,3.1,0.11
+Noni fruit puree,6131,36,7.21,0.1,0.55,2.01,2.4,0.04
+Cheese créme,6133,613,1.31,65.14,7.89,0,0.7,0.28
+Apple juice (conc.),6134,200,48.5,0,1.25,0,10.4,0.05
+Wheat berry (boiled w/ salt),6145,178,33.5,0.71,4.49,9.33,0.4,0.39
+"Oat groats (whole, bolied w/ salt)",6146,199,33.1,3.01,5.77,7.76,0.4,0.36
+Psyllium husk,6154,199,10,0.5,1.22,78.1,0,0.18
+Chia seeds,6157,448,0,33.9,19.42,36.33,0.8,0
+Hemp seeds w/ husk,6158,443,0,32.9,20.86,35.04,1.4,0.01
+Hemp seeds,6159,609,2.6,53.6,27.98,5.4,1.4,0.01
+Poppy seeds,6160,534,4.8,45.9,17.89,18.96,3,0.01
+"Mustard (swedish, sweet & strong)",6164,271,48.9,6.44,3.71,0,43.4,0.71
+Coconut oil,6165,881,0.7,99.3,0,0,0,0
+"Mayonnaise (80% fat, soya bean oil)",6166,677,2.7,74.7,1.31,0,1.5,1.09
+"Mayonnaise (80% fat, sunflower oil)",6167,656,7.1,70.3,1.31,0,1.5,1.09
+Crayfish (canned),6168,71,0.8,0.44,15.63,0,0,2.07
+Whitefish roe,6169,185,5.7,9.12,20,0,0.1,2.75
+Seaweed caviar,6171,10,0.4,0.15,0.31,2.9,0,3.4
+Seaweed caviar spread,6172,299,16.4,25.8,0.69,0.69,6.9,4.75
+"Salmon (wild, Sweden)",6173,188,1.1,10.4,22.5,0,0,0.06
+"Salmon (farmed, Norway)",6225,210,0.3,13.9,21.25,0,0,0.07
+Yam (boiled),6330,124,27.4,0.2,1.56,2.3,1.9,0
+Grapes (green),6333,67,14.7,0.2,0.69,1.2,15.2,0
+Grapes (red),6334,72,16.4,0.1,0.56,1.3,17,0
+Dressing hamburger (28 % fat),6336,273,6.96,27.2,0.91,0.15,3.9,0.03
+Mayonnaise (egg protein free),6337,484,0.65,54.32,0.15,0.05,0.1,1.01
+Dressing Mangoraja,6338,540,13.52,54.41,1.04,0.11,13.5,1.03
+Cheese & turkey sauce,6341,144,6.02,8.91,10.02,0.1,3.6,1.43
+Onion (fried),6349,54,8.33,1.15,1.36,2.15,5.1,0.02
+Mango & curry sauce,6353,132,8.82,10.2,1.15,0.77,8,1.54
+Meat & vegetable patties (fried),6378,161,8.39,6.81,14.68,3.76,0.8,1.39
+Vegetable burger (fried),6398,229,24.84,12.03,3.69,3.34,3.2,2.21
+Beetroot patties (fried),6399,108,11.12,4.59,4.52,2.02,4.3,1.33
+Carrot patties (fried),6400,107,11.46,4.62,3.63,2.5,6.1,1.15
+Pea & rutabaga patties (fried),6402,169,17.2,6.44,6.54,8.41,3,0.42
+Chickpea patties (fried),6403,209,17.75,9.37,8.64,10.14,1.4,3.25
+Mince sauce w/ textured fungal proteins,6407,92,7.18,3.07,7.23,3.16,4.1,2.09
+Maize sauce,6421,98,5.71,7.23,2.13,0.9,2.8,4.32
+Broccoli sauce,6424,151,2.3,14.07,3.86,1.03,1.9,1.48
+Mince sauce w/ textured soya proteins,6426,116,7.17,4.93,8.65,4.14,3.7,1.97
+Carrot sauce,6440,69,5.29,4.42,1.43,1.45,4.8,0.36
+Sweet peppers (grilled),6442,23,4.2,0.19,0.5,1.15,5,0
+Grains oat rye wheat barley (boiled),6448,129,22.8,1.08,3.43,6.74,0.3,0.28
+Flour oat,6468,375,64.1,6.98,9.5,7.5,1,0
+Sea trout,6478,175,1.7,9.25,21.25,0,0,0.08
+ Rolled barley flakes wholegrain (steamed),6480,351,65.4,3.1,9.2,10.7,0.9,0.03
+Rye flakes wholegrain (steamed),6481,323,61.1,1.5,9.2,12.7,2.4,0.01
+Wheat flakes wholegrain (steamed),6482,328,60.98,2,10.2,11.32,0.5,0.01
